@@ -1,0 +1,11 @@
+table, tr, td {
+   border: 1px solid darkblue;
+   border-collapse: collapse;
+}
+td {
+   text-align: center;
+}
+#_noPetBold {
+font-weight: bold;
+   color: crimson;
+}
