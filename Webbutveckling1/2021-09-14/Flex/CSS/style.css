@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: cornflowerblue;
+}
+header, nav, section, main, aside, footer {
+    margin: 0;
+    padding: 20px;
+    border: 1px solid black;
+}
+.header {
+    background-color: red;
+}
+.navigation {
+    background-color: darkorange;
+}
+.hero {
+    background-color: darkslategrey;
+}
+.content {
+    flex: 1;
+    background-color: palegreen;
+}
+.sidebar {
+    flex: 0 1 300px;
+    background-color: darkcyan;
+}
+.footer {
+    background-color: plum;
+}
+
+@media screen and (min-width: 682px) {
+    .container{
+       display: flex;
+    }
+}
+@media screen and (min-width: 992px) {
+    .sidebar {
+        flex: 0 1 500px;
+        background-color: darkolivegreen;
+    }
+}

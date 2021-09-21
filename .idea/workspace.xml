@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc71d184-115d-4a44-8990-796d8909ae42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Webbutveckling1/2021-09-07/tableUrsula/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Webbutveckling1/2021-09-07/tableUrsula/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webbutveckling1/2021-09-14/Flex/CSS/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webbutveckling1/2021-09-14/Flex/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webbutveckling1/2021-09-14/Grid/CSS/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webbutveckling1/2021-09-14/Grid/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webbutveckling1/2021-09-21/uppgifter 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webbutveckling1/2021-09-21/uppgifter 1/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,10 +37,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cm_gy_web2108" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WEB_2108/Webbutveckling_1/assignment" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Git\code\Webbutveckling1\2021-09-21\uppgifter 1" />
+      <recent name="C:\Git\code\Webbutveckling1\2021-09-14\Flex\CSS" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -48,7 +59,9 @@
       <workItem from="1630409461044" duration="176000" />
       <workItem from="1630409645195" duration="48000" />
       <workItem from="1630409697013" duration="5000" />
-      <workItem from="1630999318506" duration="5838000" />
+      <workItem from="1630999318506" duration="5890000" />
+      <workItem from="1631619481318" duration="4362000" />
+      <workItem from="1632208974841" duration="8645000" />
     </task>
     <servers />
   </component>
@@ -65,5 +78,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

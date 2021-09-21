@@ -1,0 +1,51 @@
+/*mobiler*/* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: cornflowerblue;
+    color:whitesmoke;
+}
+header, nav, section, main, aside, footer {
+    margin: 0;
+    padding: 20px;
+    border: 1px solid black;
+}
+.header {
+    background-color: red;
+}
+.navigation {
+    background-color: darkorange;
+}
+.hero {
+    background-color: darkslategrey;
+}
+.content {
+
+    background-color: palegreen;
+}
+.sidebar {
+
+    background-color: darkcyan;
+}
+.footer {
+    background-color: plum;
+}
+/* Tablet */
+@media screen and (min-width: 768px) {
+    .container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+}
+/* laptop/Desktop */
+@media screen and (min-width: 992px) {
+    .container {
+        grid-template-columns: 3fr 1fr;
+    }
+    .sidebar {
+        background-color: darkolivegreen;
+    }
+}
