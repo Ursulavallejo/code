@@ -17,13 +17,3 @@ Z
 0Webbutveckling1/2021-09-21/uppgifter 1/style.css,1\c\1c8ecbe43e1f5cd5b489d623f4be8d7ca0f2d4a6
 a
 1Webbutveckling1/2021-09-21/uppgifter 1/index.html,e\f\ef95a351a642396bb3ac2c75b1fe3600f0942d63
-T
-$Webbutveckling1/2021-09-27/script.js,5\0\507b05a2f6f4bff9fbc495d6d84a7698d9c27ac2
-Y
-)Webbutveckling1/2021-09-28/calculator2.js,c\f\cf0608f3a8a7535590a587bed347e9aea79dd473
-X
-(Webbutveckling1/2021-09-28/calculator.js,6\c\6c8b1d46a5d28a79e1a2d8a5b72be9858fb5f527
-P
- Webbutveckling1/2021-09-28/if.js,e\2\e2660134ced08916a5262cc7c907ff32e90a221e
-V
-&Webbutveckling1/2021-09-28/ifObject.js,a\2\a283f4c8d8e302a296e2e91426906ccf5db91d47
