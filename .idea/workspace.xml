@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc71d184-115d-4a44-8990-796d8909ae42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaScript/codecademy/introduction/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/codecademy/variables/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/507b05a2f6f4bff9fbc495d6d84a7698d9c27ac2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6c8b1d46a5d28a79e1a2d8a5b72be9858fb5f527" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a283f4c8d8e302a296e2e91426906ccf5db91d47" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cf0608f3a8a7535590a587bed347e9aea79dd473" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2660134ced08916a5262cc7c907ff32e90a221e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/calculator/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/calculator/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/calculator/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/calculator/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/javaScript-&amp;-jQuery/c01/add-content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/javaScript-&amp;-jQuery/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/codecademy/conditional-statements/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/codecademy/conditional-statements/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,17 +53,17 @@
       <recent name="C:\Git\code\Webbutveckling1\2021-09-14\Flex\CSS" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.index.js (1)">
-    <configuration name="calculator.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/2021-09-28/calculator.js" working-dir="$PROJECT_DIR$/JavaScript/2021-09-28">
+  <component name="RunManager" selected="Node.js.add-content.js">
+    <configuration name="add-content.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/code/JavaScript/javaScript-&amp;-jQuery/c01/add-content.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="ifObject.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Webbutveckling1/2021-09-28/ifObject.js" working-dir="$PROJECT_DIR$/Webbutveckling1/2021-09-28">
-      <method v="2" />
-    </configuration>
-    <configuration name="if.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Webbutveckling1/2021-09-28/if.js" working-dir="$PROJECT_DIR$/Webbutveckling1/2021-09-28">
+    <configuration name="add-content.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/javaScript-&amp;-jQuery/c01/js/add-content.js" working-dir="$PROJECT_DIR$/JavaScript/javaScript-&amp;-jQuery/c01/js">
       <method v="2" />
     </configuration>
     <configuration name="index.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/codecademy/variables/index.js" working-dir="$PROJECT_DIR$/JavaScript/codecademy/variables">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/codecademy/conditional-statements/index.js" working-dir="$PROJECT_DIR$/JavaScript/codecademy/conditional-statements">
       <method v="2" />
     </configuration>
     <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/codecademy/introduction/index.js" working-dir="$PROJECT_DIR$/JavaScript/codecademy">
@@ -72,11 +71,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.add-content.js" />
+        <item itemvalue="JavaScript Debug.add-content.html" />
+        <item itemvalue="Node.js.index.js (2)" />
         <item itemvalue="Node.js.index.js (1)" />
         <item itemvalue="Node.js.index.js" />
-        <item itemvalue="Node.js.calculator.js (1)" />
-        <item itemvalue="Node.js.ifObject.js" />
-        <item itemvalue="Node.js.if.js" />
       </list>
     </recent_temporary>
   </component>
@@ -99,7 +98,7 @@
       <workItem from="1632732008896" duration="1403000" />
       <workItem from="1632812583633" duration="14000" />
       <workItem from="1632820178916" duration="11258000" />
-      <workItem from="1632927376154" duration="10099000" />
+      <workItem from="1632927376154" duration="30156000" />
     </task>
     <servers />
   </component>
