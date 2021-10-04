@@ -97,3 +97,17 @@ Array();
 
     * Values in  array are called index. Index values start with 0.
     * Each array has a property called lenght wich hold the number of items in the array.
+
+####* OPERATORS:
+
+we have different operators: 
+
+assigment ( color = 'beige';)
+
+arithmetic (area = 3 * 2;)
+
+string (greeting = 'Hi ' + 'Molly';)
+
+comparison (buy = 3 > 5;) //return true , false.
+
+Logical ()
