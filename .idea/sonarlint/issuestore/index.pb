@@ -17,3 +17,31 @@ Z
 0Webbutveckling1/2021-09-21/uppgifter 1/style.css,1\c\1c8ecbe43e1f5cd5b489d623f4be8d7ca0f2d4a6
 a
 1Webbutveckling1/2021-09-21/uppgifter 1/index.html,e\f\ef95a351a642396bb3ac2c75b1fe3600f0942d63
+S
+#JavaScript/2021-09-28/calculator.js,6\7\67f5da6738211a5a0298c12b32f97a6b0ad629ac
+[
++JavaScript/codecademy/introduction/index.js,5\7\57dc5db7ae9998dc4b86e0cb560adf4c47c816d8
+X
+(JavaScript/codecademy/variables/index.js,f\0\f0eb11915a2e2f7b6f4ef51adbc2bc8152451e20
+c
+3JavaScript/javaScript-&-jQuery/c01/add-content.html,a\4\a4370d2a661520de8632856876fc797b8af31c83
+^
+.JavaScript/javaScript-&-jQuery/c01/css/c01.css,2\f\2f292619aab5af373abe256d2a4d89e2e9ba9231
+^
+.JavaScript/javaScript-&-jQuery/c02/css/c02.css,1\9\19fa1cafdde582f329f76e6313fbf7c7f01a706e
+i
+9JavaScript/javaScript-&-jQuery/c02/js/numeric-variable.js,a\7\a748b0156a9f60620031aa435b2e32eab71e0657
+h
+8JavaScript/javaScript-&-jQuery/c02/numeric-variable.html,3\f\3ff2be2ef8ff7f7ef39911aaa5c0506ef3a83e0f
+k
+;JavaScript/javaScript-&-jQuery/c02/js/shorthand-variable.js,a\7\a79e99519abe7c5fb5bc6cfbe47abc8670d46b47
+O
+JavaScript/calculator/README.md,a\0\a067df189abed65f4ae21880f6819697d513b258
+R
+"JavaScript/calculator/functions.js,8\b\8b471cd38412510c3d36d20484ca674e19cd87f7
+O
+JavaScript/calculator/style.css,8\7\87449f85dedc453605fa764058d5479e60250f18
+P
+ JavaScript/calculator/index.html,7\7\77a6d4e81278a7e85baa6ea93c2ec14c2390e51a
+X
+(JavaScript/javaScript-&-jQuery/readme.md,b\5\b53f0b8fa5bbabf7138c16632319ed631ade12aa

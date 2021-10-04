@@ -10,7 +10,7 @@ A conditional statement checks a specific condition(s) and performs a task based
 -ternary operators
 -switch statement
 
-If Statement:
+* If Statement:
 
 The if keyword followed by a set of parentheses () which is followed by a code block, or block statement, indicated by a set of curly braces {}.
 
@@ -32,7 +32,7 @@ if (sale){
 }
 
 /*
-If...Else Statements:
+* If...Else Statements:
 
 In many cases, we’ll have code we want to run if our condition evaluates to false.
 
@@ -55,7 +55,7 @@ if (false) {
 // Prints: But the code in this block will!
 
 /*
-Comparison Operators:
+* Comparison Operators:
 
 sometimes we need to use different types of operators to compare values. These operators are called comparison operators.
 
@@ -68,6 +68,98 @@ Greater than or equal to: >=
 Is equal to: ===
 Is not equal to: !==
 
-Comparison operators compare the value on the left with the value on the right. For instance:
+Comparison operators compare the value on the left with the value on the right.
+It can be helpful to think of comparison statements as questions. When the answer is “yes”, the statement evaluates to true, and when the answer is “no”, the statement evaluates to false.
+
+For instance:
  */
 10 < 12 // Evaluates to true
+
+let hungerLevel = 10
+if (hungerLevel > 7){
+    console.log('Time to eat!')
+}else {
+    console.log('We can eat later!')
+}
+/*
+* Logical Operators:
+
+Working with conditionals means that we will be using booleans, true or false values.
+In JavaScript, there are operators that work with boolean values known as logical operators. We can use logical operators to add more sophisticated logic to our conditionals. There are three logical operators:
+
+1.the AND operator (&&):
+
+we are checking that two things are true, both conditions must evaluate to true for the entire condition to evaluate to true and execute. Otherwise, if either condition is false, the && condition will evaluate to false and the else block will execute.
+*
+if (stopLight === 'green' && pedestrians === 0) {
+  console.log('Go!');
+} else {
+  console.log('Stop');
+}
+
+2.the OR operator (||):
+
+When using the || operator, only one of the conditions must evaluate to true for the overall statement to evaluate to true.
+ If the first condition in an || statement evaluates to true, the second condition won’t even be checked.
+The code in the else statement above will execute only if both comparisons evaluate to false.
+
+if (day === 'Saturday' || day === 'Sunday') {
+  console.log('Enjoy the weekend!');
+} else {
+  console.log('Do some work.');
+}
+
+3.the NOT operator, otherwise known as the bang operator (!)
+
+The ! not operator reverses, or negates, the value of a boolean:
+
+* let excited = true;
+console.log(!excited); // Prints false
+
+let sleepy = false;
+console.log(!sleepy); // Prints true
+
+Essentially, the ! operator will either take a true value and pass back false, or it will take a false value and pass back true.
+
+ */
+let mood = 'sleepy';
+let tirednessLevel = 6;
+
+if (mood === 'sleepy' && tirednessLevel > 8 ){
+    console.log('time to sleep')
+} else {
+    console.log('not bed time yet')
+}
+/*
+* Truthy and Falsy:
+
+Sometimes, you’ll want to check if a variable exists and you won’t necessarily want it to equal a specific value — you’ll only check to see if the variable has been assigned a value.
+
+let myVariable = 'I Exist!';
+
+if (myVariable) {
+   console.log(myVariable)
+} else {
+   console.log('The variable does not exist.')
+}
+
+The code block in the if statement will run because myVariable has a truthy value; even though the value of myVariable is not explicitly the value true, when used in a boolean or conditional context, it evaluates to true because it has been assigned a non-falsy value.
+
+So which values are falsy— or evaluate to false when checked as a condition? The list of falsy values includes:
+
+-0
+-Empty strings like "" or ''
+-null which represent when there is no value at all
+-undefined which represent when a declared variable lacks a value
+-NaN, or Not a Number
+
+
+ */
+let numberOfApples = 0;
+
+if (numberOfApples){
+    console.log('Let us eat apples!');
+} else {
+    console.log('No apples left!');
+}
+// Prints 'No apples left!'

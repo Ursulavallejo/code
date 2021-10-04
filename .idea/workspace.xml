@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc71d184-115d-4a44-8990-796d8909ae42" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-04/ifElse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-04/loops.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-04/switch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-04/ternary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/javaScript-&amp;-jQuery/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/javaScript-&amp;-jQuery/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/codecademy/conditional-statements/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/codecademy/conditional-statements/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cm_gy_web2108" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -47,29 +52,29 @@
       <recent name="C:\Git\code\Webbutveckling1\2021-09-14\Flex\CSS" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.add-content.js">
-    <configuration name="add-content.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/code/JavaScript/javaScript-&amp;-jQuery/c01/add-content.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="add-content.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/javaScript-&amp;-jQuery/c01/js/add-content.js" working-dir="$PROJECT_DIR$/JavaScript/javaScript-&amp;-jQuery/c01/js">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/codecademy/variables/index.js" working-dir="$PROJECT_DIR$/JavaScript/codecademy/variables">
+  <component name="RunManager" selected="Node.js.loops.js">
+    <configuration name="ifElse.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/2021-10-04/ifElse.js" working-dir="$PROJECT_DIR$/JavaScript/2021-10-04">
       <method v="2" />
     </configuration>
     <configuration name="index.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/codecademy/conditional-statements/index.js" working-dir="$PROJECT_DIR$/JavaScript/codecademy/conditional-statements">
       <method v="2" />
     </configuration>
-    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/codecademy/introduction/index.js" working-dir="$PROJECT_DIR$/JavaScript/codecademy">
+    <configuration name="loops.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/2021-10-04/loops.js" working-dir="$PROJECT_DIR$/JavaScript/2021-10-04">
+      <method v="2" />
+    </configuration>
+    <configuration name="switch.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/2021-10-04/switch.js" working-dir="$PROJECT_DIR$/JavaScript/2021-10-04">
+      <method v="2" />
+    </configuration>
+    <configuration name="ternary.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/2021-10-04/ternary.js" working-dir="$PROJECT_DIR$/JavaScript/2021-10-04">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.add-content.js" />
-        <item itemvalue="JavaScript Debug.add-content.html" />
+        <item itemvalue="Node.js.loops.js" />
+        <item itemvalue="Node.js.ternary.js" />
         <item itemvalue="Node.js.index.js (2)" />
-        <item itemvalue="Node.js.index.js (1)" />
-        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.switch.js" />
+        <item itemvalue="Node.js.ifElse.js" />
       </list>
     </recent_temporary>
   </component>
@@ -92,7 +97,8 @@
       <workItem from="1632732008896" duration="1403000" />
       <workItem from="1632812583633" duration="14000" />
       <workItem from="1632820178916" duration="11258000" />
-      <workItem from="1632927376154" duration="31701000" />
+      <workItem from="1632927376154" duration="32301000" />
+      <workItem from="1633333876904" duration="11616000" />
     </task>
     <servers />
   </component>
