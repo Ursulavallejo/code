@@ -42,9 +42,26 @@ function verifyGuessEvent(correctNumber, guess) {
     } else {
         text='Du skrev inte in ett nummer!'
     }
-    return [isGuessCorrect, text]
+    return {
+        isGuessCorrect : isGuessCorrect,
+        message : text
+    }
+   // return [isGuessCorrect, text]
 }
 
-function aiFindNumber(){
+function triggerAI(){
+ //let aiGuess = maxNum / 2
+    let correctNumber = -1
+    let data
+    let i
+    for ( i = 0; i < maxNum ; i++) {
+        data = verifyGuessEvent(random , i)
+        console.log(data)
+        if (data.isGuessCorrect){
+            correctNumber = 1
+            break
+        }
 
+    }
+    document.getElementById('guess-output-text').innerHTML = data.message
 }
