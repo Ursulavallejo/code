@@ -1,8 +1,6 @@
 
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-`
-0Webbutveckling1/2021-09-07/tableUrsula/style.css,e\1\e13efc2e4465bc6625d4e39be32c201af2e2aa79
 a
 1Webbutveckling1/2021-09-07/tableUrsula/index.html,7\c\7cd3f48e9e35fcf044af06805f102424bed1dff9
 Z
@@ -13,14 +11,10 @@ Z
 -Webbutveckling1/2021-09-14/Grid/CSS/style.css,1\3\133abde1addd28fce8ea373eddea76a0f166655a
 Z
 *Webbutveckling1/2021-09-14/Grid/index.html,7\8\7892b01c56b0370da51fc86f43dec8e7e38062af
-`
-0Webbutveckling1/2021-09-21/uppgifter 1/style.css,1\c\1c8ecbe43e1f5cd5b489d623f4be8d7ca0f2d4a6
 a
 1Webbutveckling1/2021-09-21/uppgifter 1/index.html,e\f\ef95a351a642396bb3ac2c75b1fe3600f0942d63
 S
 #JavaScript/2021-09-28/calculator.js,6\7\67f5da6738211a5a0298c12b32f97a6b0ad629ac
-[
-+JavaScript/codecademy/introduction/index.js,5\7\57dc5db7ae9998dc4b86e0cb560adf4c47c816d8
 X
 (JavaScript/codecademy/variables/index.js,f\0\f0eb11915a2e2f7b6f4ef51adbc2bc8152451e20
 c
@@ -37,11 +31,41 @@ k
 ;JavaScript/javaScript-&-jQuery/c02/js/shorthand-variable.js,a\7\a79e99519abe7c5fb5bc6cfbe47abc8670d46b47
 O
 JavaScript/calculator/README.md,a\0\a067df189abed65f4ae21880f6819697d513b258
-R
-"JavaScript/calculator/functions.js,8\b\8b471cd38412510c3d36d20484ca674e19cd87f7
 O
 JavaScript/calculator/style.css,8\7\87449f85dedc453605fa764058d5479e60250f18
 P
  JavaScript/calculator/index.html,7\7\77a6d4e81278a7e85baa6ea93c2ec14c2390e51a
 X
 (JavaScript/javaScript-&-jQuery/readme.md,b\5\b53f0b8fa5bbabf7138c16632319ed631ade12aa
+d
+4JavaScript/javaScript-&-jQuery/c01/js/add-content.js,2\b\2be207ad162c7df054ec3af7f055c300b2cf40dc
+�
+TJavaScript/studiematerial/conditional_statements/övningar/övningar_conditionals.js,2\9\29f19ca2f038b41c87eacc81c610fd474ebfe87d
+j
+:JavaScript/studiematerial/conditional_statements/README.md,6\a\6a7fffde94b0b926aab99be5cdd4e5ad2d19f979
+S
+#JavaScript/studiematerial/README.md,f\5\f51488139fee469b7160028b99d501e7ecdbe832
+S
+#JavaScript/2021-10-11/exempel1.html,b\3\b37d123dd7417c016105e9fa6fab75b3d6e8b090
+S
+#JavaScript/2021-10-11/css/style.css,3\f\3f4d5fbeb465d1811c972172192bbf6624b59ea7
+S
+#JavaScript/2021-10-11/exempel2.html,1\1\117cf329ddd9365133beda7d4b05c086c0ceaca7
+Q
+!JavaScript/2021-10-12/prompt.html,f\e\fedfb7cb0c032dc43f80445f8caea8a001ada25f
+W
+'JavaScript/2021-10-12/guessingGame.html,a\8\a8923806ae31fc0e3c2702277f9fe52c9da62bd5
+O
+JavaScript/2021-10-04/ifElse.js,5\b\5bc10dda23cb2377579eb2a85649e50d1f8ba9ec
+O
+JavaScript/2021-10-04/switch.js,c\a\cad57bc4738bd5a1ab9572b16fd98f29c1ac37e0
+N
+JavaScript/2021-10-04/loops.js,8\b\8b76a3d56119ed4d7a78033c4b6abee16c4bd40d
+[
++JavaScript/2021-10-12/guessingGameLars.html,e\1\e120b29ea9b9d483a7f8e9acea5edf2b2943ed43
+Z
+*JavaScript/2021-10-12/guessgamefinnal.html,f\0\f042d8ae22463ea3e5a92fccc9778779471ddd72
+`
+0Webbutveckling1/2021-09-07/tableUrsula/style.css,e\1\e13efc2e4465bc6625d4e39be32c201af2e2aa79
+`
+0Webbutveckling1/2021-09-21/uppgifter 1/style.css,1\c\1c8ecbe43e1f5cd5b489d623f4be8d7ca0f2d4a6

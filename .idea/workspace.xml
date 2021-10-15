@@ -2,12 +2,120 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc71d184-115d-4a44-8990-796d8909ae42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-04/ifElse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-04/loops.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-04/switch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-04/ternary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-05/uppgift.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-11/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-11/exempel1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-11/exempel2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-11/img/pic_bulb_off.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-11/img/pic_bulb_on.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-12/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-12/guessgamefinnal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-12/guessingGame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-12/guessingGameLars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-12/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-12/js/guessingGame.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-12/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-12/prompt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/codecademy/conditional-statements/elseIfStatements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/codecademy/conditional-statements/ternary_operator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/codecademy/exercices/Magic Eight Ball/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/codecademy/exercices/dog_years/appGogYears.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/codecademy/exercices/kelvinWeather/app_kelvin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/codecademy/exercices/raceDay/appRace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/codecademy/functions/functionsInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/aritmetiska_operatorer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/aritmetiska_operatorer/övningar/övningar_aritmetiskaOp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/arrays/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/arrays/iteration/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/arrays/methods/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/arrays/overview/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/arrays/sort/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/assignment_preparation/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/assignment_preparation/centrera_sida/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/assignment_preparation/centrera_sida/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/assignment_preparation/components/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/assignment_preparation/components/img/random.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/assignment_preparation/components/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/assignment_preparation/components/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/assignment_preparation/dropdown_menu/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/assignment_preparation/dropdown_menu/img/random.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/assignment_preparation/dropdown_menu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/assignment_preparation/dropdown_menu/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/assignment_preparation/grid/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/assignment_preparation/grid/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/concatenating_strings/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/concatenating_strings/exempel/ex1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/concatenating_strings/exempel/ex2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/concatenating_strings/exempel/ex3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/concatenating_strings/exempel/ex4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/concatenating_strings/exempel/ex5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/concatenating_strings/exempel/ex6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/concatenating_strings/övningar/övningar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/conditional_statements/04-Conditionals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/conditional_statements/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/conditional_statements/ovning3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/conditional_statements/ovning4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/conditional_statements/övningar/övningar_conditionals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/exercises/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/functions_and_objects/05-Objects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/functions_and_objects/06-Functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/functions_and_objects/07-FunctionsReturn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/functions_and_objects/2021-03-03/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/functions_and_objects/2021-03-03/2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/functions_and_objects/2021-03-03/3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/functions_and_objects/2021-03-03/4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/functions_and_objects/2021-03-03/ovningar_funktioner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/functions_and_objects/2021-03-03/ovningar_funktioner.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/functions_and_objects/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/functions_and_objects/objectExplained.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/logical_operators/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/logical_operators/övningar/övning_logicalOp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/loops/03-Loops.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/loops/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/loops/ovning1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/loops/ovning10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/loops/ovning2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/loops/ovning3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/loops/ovning4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/loops/ovning5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/loops/ovning6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/loops/ovning7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/loops/ovning8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/loops/ovning9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/script_tag/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/script_tag/exempel/exempel1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/script_tag/exempel/exempel10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/script_tag/exempel/exempel11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/script_tag/exempel/exempel12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/script_tag/exempel/exempel13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/script_tag/exempel/exempel14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/script_tag/exempel/exempel2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/script_tag/exempel/exempel3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/script_tag/exempel/exempel4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/script_tag/exempel/exempel5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/script_tag/exempel/exempel6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/script_tag/exempel/exempel7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/script_tag/exempel/exempel8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/script_tag/exempel/exempel9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/script_tag/exempel/img/pic_bulb_off.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/script_tag/exempel/img/pic_bulb_on.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/script_tag/exempel/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/script_tag/exempel/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/script_tag/myScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/script_tag/myScript1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/script_tag/myScript2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/statement_syntax_comments/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/statement_syntax_comments/övningar/övningarStatements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/variabler_och_datatyper/01-Variables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/variabler_och_datatyper/02-Arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/variabler_och_datatyper/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/studiematerial/variabler_och_datatyper/övningar/övningarVariabler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/57dc5db7ae9998dc4b86e0cb560adf4c47c816d8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8b471cd38412510c3d36d20484ca674e19cd87f7" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/calculator/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/calculator/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaScript/codecademy/conditional-statements/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/codecademy/conditional-statements/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,35 +154,42 @@
     <option name="showLigatures" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Git\code\JavaScript\2021-10-11\img" />
+      <recent name="C:\Git\code\JavaScript\studiematerial\concatenating_strings" />
+      <recent name="C:\Git\code\JavaScript" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Git\code\JavaScript\codecademy\exercices" />
+      <recent name="C:\Git\code\JavaScript\2021-10-12\js" />
       <recent name="C:\Git\code\JavaScript\codecademy\introduction" />
       <recent name="C:\Git\code\Webbutveckling1\2021-09-21\uppgifter 1" />
       <recent name="C:\Git\code\Webbutveckling1\2021-09-14\Flex\CSS" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.loops.js">
-    <configuration name="ifElse.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/2021-10-04/ifElse.js" working-dir="$PROJECT_DIR$/JavaScript/2021-10-04">
+  <component name="RunManager" selected="Node.js.appRace.js">
+    <configuration name="appGogYears.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/codecademy/exercices/dog_years/appGogYears.js" working-dir="$PROJECT_DIR$/JavaScript/codecademy/exercices/dog_years">
       <method v="2" />
     </configuration>
-    <configuration name="index.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/codecademy/conditional-statements/index.js" working-dir="$PROJECT_DIR$/JavaScript/codecademy/conditional-statements">
+    <configuration name="appRace.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/codecademy/exercices/raceDay/appRace.js" working-dir="$PROJECT_DIR$/JavaScript/codecademy/exercices/raceDay">
       <method v="2" />
     </configuration>
-    <configuration name="loops.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/2021-10-04/loops.js" working-dir="$PROJECT_DIR$/JavaScript/2021-10-04">
+    <configuration name="app_kelvin.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/codecademy/exercices/kelvinWeather/app_kelvin.js" working-dir="$PROJECT_DIR$/JavaScript/codecademy/exercices/kelvinWeather">
       <method v="2" />
     </configuration>
-    <configuration name="switch.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/2021-10-04/switch.js" working-dir="$PROJECT_DIR$/JavaScript/2021-10-04">
+    <configuration name="elseIfStatements.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/codecademy/conditional-statements/elseIfStatements.js" working-dir="$PROJECT_DIR$/JavaScript/codecademy/conditional-statements">
       <method v="2" />
     </configuration>
-    <configuration name="ternary.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/2021-10-04/ternary.js" working-dir="$PROJECT_DIR$/JavaScript/2021-10-04">
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/codecademy/exercices/Magic Eight Ball/main.js" working-dir="$PROJECT_DIR$/JavaScript/codecademy/exercices/Magic Eight Ball">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.loops.js" />
-        <item itemvalue="Node.js.ternary.js" />
-        <item itemvalue="Node.js.index.js (2)" />
-        <item itemvalue="Node.js.switch.js" />
-        <item itemvalue="Node.js.ifElse.js" />
+        <item itemvalue="Node.js.appRace.js" />
+        <item itemvalue="Node.js.appGogYears.js" />
+        <item itemvalue="Node.js.app_kelvin.js" />
+        <item itemvalue="Node.js.main.js" />
+        <item itemvalue="Node.js.elseIfStatements.js" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +213,14 @@
       <workItem from="1632812583633" duration="14000" />
       <workItem from="1632820178916" duration="11258000" />
       <workItem from="1632927376154" duration="32301000" />
-      <workItem from="1633333876904" duration="11616000" />
+      <workItem from="1633333876904" duration="12084000" />
+      <workItem from="1633353730196" duration="75000" />
+      <workItem from="1633424783056" duration="3303000" />
+      <workItem from="1633432529801" duration="5069000" />
+      <workItem from="1633590244154" duration="31899000" />
+      <workItem from="1633945540733" duration="3704000" />
+      <workItem from="1634022251920" duration="21429000" />
+      <workItem from="1634193898679" duration="14481000" />
     </task>
     <servers />
   </component>
@@ -116,5 +238,71 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JavaScript/2021-10-12/guessingGame.html</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JavaScript/2021-10-12/guessingGameLars.html</url>
+          <line>50</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JavaScript/2021-10-12/guessingGameLars.html</url>
+          <line>30</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JavaScript/2021-10-12/guessingGameLars.html</url>
+          <line>35</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JavaScript/2021-10-12/guessgamefinnal.html</url>
+          <line>81</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JavaScript/2021-10-12/js/guessingGame.js</url>
+          <line>13</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JavaScript/2021-10-12/js/script.js</url>
+          <line>35</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JavaScript/2021-10-12/js/guessingGame.js</url>
+          <line>31</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JavaScript/2021-10-12/js/script.js</url>
+          <line>24</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JavaScript/2021-10-12/js/script.js</url>
+          <line>21</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JavaScript/2021-10-12/js/script.js</url>
+          <line>28</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JavaScript/2021-10-12/js/script.js</url>
+          <line>26</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

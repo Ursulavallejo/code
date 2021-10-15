@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Guessing Game</title>
+</head>
+<body>
+<h2>Guessing Game</h2>
+
+<script>
+let input = window.prompt("Skriv in ett nummer:")
+input = Number(input)
+if (input == 5){
+    greeting = 'Rätt Nr'
+}else if (input < 5){
+    greeting = 'För lågt'
+}else if (input > 5) {
+    greeting = 'För högt'
+}else {
+    greeting = 'Du använd inte en nummer'
+
+}
+
+input = Number(input)
+console.log(input)
+console.log(typeof (input))  // type nummer
+console.log(greeting)
+alert(greeting)
+
+</script>
+</body>
+</html>
