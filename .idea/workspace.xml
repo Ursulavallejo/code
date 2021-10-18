@@ -2,8 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc71d184-115d-4a44-8990-796d8909ae42" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-11/exempel10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-11/exempel11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-11/exempel12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-11/exempel13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-11/exempel14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-11/exempel15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-11/exempel16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-11/exempel3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-11/exempel4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-11/exempel5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-11/exempel6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-11/exempel7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-11/exempel7b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-11/exempel8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-11/exempel9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/2021-10-11/js/exempel7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/117cf329ddd9365133beda7d4b05c086c0ceaca7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f4d5fbeb465d1811c972172192bbf6624b59ea7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b37d123dd7417c016105e9fa6fab75b3d6e8b090" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/codecademy/functions/functionsInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/codecademy/functions/functionsInfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/2021-10-11/exempel2.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/2021-10-11/exempel2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/2021-10-12/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/2021-10-12/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/2021-10-12/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/2021-10-12/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,9 +35,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -32,7 +54,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cm_gy_web2108" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -54,7 +76,10 @@
       <recent name="C:\Git\code\Webbutveckling1\2021-09-14\Flex\CSS" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.functionsInfo.js">
+  <component name="RunManager" selected="JavaScript Debug.exempel15.html">
+    <configuration name="exempel15.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/code/JavaScript/2021-10-11/exempel15.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="appGogYears.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/codecademy/exercices/dog_years/appGogYears.js" working-dir="$PROJECT_DIR$/JavaScript/codecademy/exercices/dog_years">
       <method v="2" />
     </configuration>
@@ -67,16 +92,13 @@
     <configuration name="functionsInfo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/codecademy/functions/functionsInfo.js" working-dir="$PROJECT_DIR$/JavaScript/codecademy/functions">
       <method v="2" />
     </configuration>
-    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/codecademy/exercices/Magic Eight Ball/main.js" working-dir="$PROJECT_DIR$/JavaScript/codecademy/exercices/Magic Eight Ball">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.exempel15.html" />
         <item itemvalue="Node.js.functionsInfo.js" />
         <item itemvalue="Node.js.appRace.js" />
         <item itemvalue="Node.js.appGogYears.js" />
         <item itemvalue="Node.js.app_kelvin.js" />
-        <item itemvalue="Node.js.main.js" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +129,7 @@
       <workItem from="1633590244154" duration="31899000" />
       <workItem from="1633945540733" duration="3704000" />
       <workItem from="1634022251920" duration="21429000" />
-      <workItem from="1634193898679" duration="27956000" />
+      <workItem from="1634193898679" duration="39732000" />
     </task>
     <servers />
   </component>

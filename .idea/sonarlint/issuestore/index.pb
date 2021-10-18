@@ -45,12 +45,6 @@ j
 :JavaScript/studiematerial/conditional_statements/README.md,6\a\6a7fffde94b0b926aab99be5cdd4e5ad2d19f979
 S
 #JavaScript/studiematerial/README.md,f\5\f51488139fee469b7160028b99d501e7ecdbe832
-S
-#JavaScript/2021-10-11/exempel1.html,b\3\b37d123dd7417c016105e9fa6fab75b3d6e8b090
-S
-#JavaScript/2021-10-11/css/style.css,3\f\3f4d5fbeb465d1811c972172192bbf6624b59ea7
-S
-#JavaScript/2021-10-11/exempel2.html,1\1\117cf329ddd9365133beda7d4b05c086c0ceaca7
 Q
 !JavaScript/2021-10-12/prompt.html,f\e\fedfb7cb0c032dc43f80445f8caea8a001ada25f
 W
