@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc71d184-115d-4a44-8990-796d8909ae42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-18/centrerasida/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-18/centrerasida/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-18/grid/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-18/grid/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-18/componenter/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-18/componenter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-18/componenter/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-18/dropdown/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-18/dropdown/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-18/dropdown/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -37,7 +39,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../cm_gy_web2108" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="ReaderModeSettings">
@@ -50,11 +52,11 @@
       <recent name="C:\Git\code\JavaScript" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Git\code\JavaScript\lektioner\2021-10-18\componenter\js" />
       <recent name="C:\Git\code\JavaScript\lektioner" />
       <recent name="C:\Git\code\JavaScript\codecademy\exercices" />
       <recent name="C:\Git\code\JavaScript\2021-10-12\js" />
       <recent name="C:\Git\code\JavaScript\codecademy\introduction" />
-      <recent name="C:\Git\code\Webbutveckling1\2021-09-21\uppgifter 1" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.exempel15.html">
@@ -110,7 +112,7 @@
       <workItem from="1633590244154" duration="31899000" />
       <workItem from="1633945540733" duration="3704000" />
       <workItem from="1634022251920" duration="21429000" />
-      <workItem from="1634193898679" duration="43564000" />
+      <workItem from="1634193898679" duration="51166000" />
     </task>
     <servers />
   </component>
