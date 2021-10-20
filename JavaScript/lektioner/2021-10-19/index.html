@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Exempel 1</title>
+</head>
+<body>
+<main>
+    <section>
+        <p id="name"></p>
+    <button onclick="geNamn()" >Click</button>
+
+        <p id="car"></p>
+
+        <h2>Input</h2>
+        <label for="inputString">Something to say?</label><input type="text" id="inputString" value="Hej!" onchange="getInputFromInputStringV2(value)">
+        <button onclick=getInputFromInputString()>Run Function</button>
+        <button onclick="updateInputStringValue()">Random</button>
+        <p>Output from button click:<span id="inputResult"></span></p>
+
+
+    </section>
+</main>
+<script src="js/script.js"></script>
+</body>
+</html>

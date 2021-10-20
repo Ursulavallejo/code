@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc71d184-115d-4a44-8990-796d8909ae42" name="Changes" comment="" />
+    <list default="true" id="dc71d184-115d-4a44-8990-796d8909ae42" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-19/chooseOne/chooseOne.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-19/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-19/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-19/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/0828dc577d4f9a3d1400e0ca9eb16b3b07506091" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/395cedf91748e1c57dec86d827467bd7b9a8821d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/427037a99226678bba6857ce8c40898264c0cf1a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/437f5919109fe85a61aa00513ed979cc835ab13a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/455262502d17faa3bb6e1de3559027226623f75a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5a58c12d2f73a6879b2659cb10beb8a0dd14db92" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5bc10dda23cb2377579eb2a85649e50d1f8ba9ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67f5da6738211a5a0298c12b32f97a6b0ad629ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8b76a3d56119ed4d7a78033c4b6abee16c4bd40d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/93f0315633dfd35998e07b5a77a4504068e17512" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8923806ae31fc0e3c2702277f9fe52c9da62bd5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/cad57bc4738bd5a1ab9572b16fd98f29c1ac37e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/dac9fa41bae758f7eee526a68d93b3cafc3fed2e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e120b29ea9b9d483a7f8e9acea5edf2b2943ed43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/eae92cb0f270a4103ed02aee5624ea23a7c547a7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f042d8ae22463ea3e5a92fccc9778779471ddd72" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fedfb7cb0c032dc43f80445f8caea8a001ada25f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,8 +35,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -29,7 +53,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cm_gy_web2108" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -51,7 +76,7 @@
       <recent name="C:\Git\code\JavaScript\codecademy\introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.exempel15.html">
+  <component name="RunManager" selected="Node.js.chooseOne.js">
     <configuration name="exempel15.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/code/JavaScript/2021-10-11/exempel15.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -61,7 +86,7 @@
     <configuration name="appRace.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/codecademy/exercices/raceDay/appRace.js" working-dir="$PROJECT_DIR$/JavaScript/codecademy/exercices/raceDay">
       <method v="2" />
     </configuration>
-    <configuration name="app_kelvin.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/codecademy/exercices/kelvinWeather/app_kelvin.js" working-dir="$PROJECT_DIR$/JavaScript/codecademy/exercices/kelvinWeather">
+    <configuration name="chooseOne.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/lektioner/2021-10-19/chooseOne/chooseOne.js" working-dir="$PROJECT_DIR$/JavaScript/lektioner/2021-10-19/chooseOne">
       <method v="2" />
     </configuration>
     <configuration name="functionsInfo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JavaScript/codecademy/functions/functionsInfo.js" working-dir="$PROJECT_DIR$/JavaScript/codecademy/functions">
@@ -69,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.chooseOne.js" />
+        <item itemvalue="Node.js.appRace.js" />
         <item itemvalue="JavaScript Debug.exempel15.html" />
         <item itemvalue="Node.js.functionsInfo.js" />
-        <item itemvalue="Node.js.appRace.js" />
         <item itemvalue="Node.js.appGogYears.js" />
-        <item itemvalue="Node.js.app_kelvin.js" />
       </list>
     </recent_temporary>
   </component>
@@ -105,6 +130,7 @@
       <workItem from="1633945540733" duration="3704000" />
       <workItem from="1634022251920" duration="21429000" />
       <workItem from="1634193898679" duration="56234000" />
+      <workItem from="1634628036038" duration="10892000" />
     </task>
     <servers />
   </component>

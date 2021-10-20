@@ -13,8 +13,6 @@ Z
 *Webbutveckling1/2021-09-14/Grid/index.html,7\8\7892b01c56b0370da51fc86f43dec8e7e38062af
 a
 1Webbutveckling1/2021-09-21/uppgifter 1/index.html,e\f\ef95a351a642396bb3ac2c75b1fe3600f0942d63
-S
-#JavaScript/2021-09-28/calculator.js,6\7\67f5da6738211a5a0298c12b32f97a6b0ad629ac
 X
 (JavaScript/codecademy/variables/index.js,f\0\f0eb11915a2e2f7b6f4ef51adbc2bc8152451e20
 c
@@ -45,20 +43,6 @@ j
 :JavaScript/studiematerial/conditional_statements/README.md,6\a\6a7fffde94b0b926aab99be5cdd4e5ad2d19f979
 S
 #JavaScript/studiematerial/README.md,f\5\f51488139fee469b7160028b99d501e7ecdbe832
-Q
-!JavaScript/2021-10-12/prompt.html,f\e\fedfb7cb0c032dc43f80445f8caea8a001ada25f
-W
-'JavaScript/2021-10-12/guessingGame.html,a\8\a8923806ae31fc0e3c2702277f9fe52c9da62bd5
-O
-JavaScript/2021-10-04/ifElse.js,5\b\5bc10dda23cb2377579eb2a85649e50d1f8ba9ec
-O
-JavaScript/2021-10-04/switch.js,c\a\cad57bc4738bd5a1ab9572b16fd98f29c1ac37e0
-N
-JavaScript/2021-10-04/loops.js,8\b\8b76a3d56119ed4d7a78033c4b6abee16c4bd40d
-[
-+JavaScript/2021-10-12/guessingGameLars.html,e\1\e120b29ea9b9d483a7f8e9acea5edf2b2943ed43
-Z
-*JavaScript/2021-10-12/guessgamefinnal.html,f\0\f042d8ae22463ea3e5a92fccc9778779471ddd72
 `
 0Webbutveckling1/2021-09-07/tableUrsula/style.css,e\1\e13efc2e4465bc6625d4e39be32c201af2e2aa79
 `
@@ -71,14 +55,8 @@ p
 @JavaScript/codecademy/conditional-statements/ternary_operator.js,9\e\9e5eb82a1d84c44c11bb05bc88707a0ae9726cf5
 e
 5JavaScript/codecademy/conditional-statements/index.js,9\d\9d6e8f12d6eecd9d27233a541f2018fb9d0eb59b
-h
-8JavaScript/codecademy/exercices/Magic Eight Ball/main.js,4\5\455262502d17faa3bb6e1de3559027226623f75a
 k
 ;JavaScript/codecademy/exercices/kelvinWeather/app_kelvin.js,a\5\a57779e97344d1bd318b871d4b15ba98b05bf804
-h
-8JavaScript/codecademy/exercices/dog_years/appGogYears.js,d\a\dac9fa41bae758f7eee526a68d93b3cafc3fed2e
-b
-2JavaScript/codecademy/exercices/raceDay/appRace.js,4\3\437f5919109fe85a61aa00513ed979cc835ab13a
 `
 0JavaScript/codecademy/functions/functionsInfo.js,3\5\35d1d23e1369114dffc692f21e0fc59a17d21c64
 ]
@@ -114,8 +92,6 @@ b
 ^
 .JavaScript/lektioner/2021-10-11/exempel13.html,d\0\d0e10fdb121489947b739fe1dbc05dceea810644
 ^
-.JavaScript/lektioner/2021-10-11/exempel15.html,0\8\0828dc577d4f9a3d1400e0ca9eb16b3b07506091
-^
 .JavaScript/lektioner/2021-10-11/exempel16.html,e\1\e1b18cdfac354774785c88122fda29df2174c762
 ^
 .JavaScript/lektioner/2021-10-11/exempel14.html,7\0\70587ee9041cff531c709cbd56b276e8baecc2f0
@@ -123,8 +99,6 @@ b
 -JavaScript/lektioner/2021-10-12/css/style.css,f\f\ff55033e20ecae1b6963a46c256558f42ecfb3fe
 Z
 *JavaScript/lektioner/2021-10-12/index.html,0\a\0aaa1ac4b819f28b07cfb6162bdeea4b4b625dc4
-\
-,JavaScript/lektioner/2021-10-12/js/script.js,9\3\93f0315633dfd35998e07b5a77a4504068e17512
 Y
 )JavaScript/lektioner/2021-09-27/script.js,d\a\dabe8b5ce2658848ad105bfee16970df58e14850
 U
@@ -153,15 +127,33 @@ _
 /JavaScript/lektioner/2021-10-18/grid/index.html,9\f\9f4724f08c63c41f026324d0837147990a4c8cd5
 ^
 .JavaScript/lektioner/2021-10-18/grid/style.css,2\7\27f1e4e62c2194d230be4d32c1b920bf91edc28f
-c
-3JavaScript/lektioner/2021-10-18/dropdown/index.html,3\9\395cedf91748e1c57dec86d827467bd7b9a8821d
 b
 2JavaScript/lektioner/2021-10-18/dropdown/script.js,e\0\e018ca38f813466360a9d58e41b0cdb81d22cd5b
 b
 2JavaScript/lektioner/2021-10-18/dropdown/style.css,d\8\d88e157baea78f538c20be711acddbf3f63b78e2
 i
 9JavaScript/lektioner/2021-10-18/componenter/css/style.css,4\2\427037a99226678bba6857ce8c40898264c0cf1a
+]
+-JavaScript/lektioner/2021-10-19/css/style.css,5\f\5f3a19cb2dcb932631f39f0cd6c5b2c5ec144cf6
+c
+3JavaScript/lektioner/2021-10-18/dropdown/index.html,3\9\395cedf91748e1c57dec86d827467bd7b9a8821d
+\
+,JavaScript/lektioner/2021-10-12/js/script.js,9\3\93f0315633dfd35998e07b5a77a4504068e17512
+b
+2JavaScript/codecademy/exercices/raceDay/appRace.js,4\3\437f5919109fe85a61aa00513ed979cc835ab13a
+h
+8JavaScript/codecademy/exercices/dog_years/appGogYears.js,d\a\dac9fa41bae758f7eee526a68d93b3cafc3fed2e
 f
 6JavaScript/lektioner/2021-10-18/componenter/index.html,5\a\5a58c12d2f73a6879b2659cb10beb8a0dd14db92
 h
 8JavaScript/lektioner/2021-10-18/componenter/js/script.js,e\a\eae92cb0f270a4103ed02aee5624ea23a7c547a7
+^
+.JavaScript/lektioner/2021-10-11/exempel15.html,0\8\0828dc577d4f9a3d1400e0ca9eb16b3b07506091
+Z
+*JavaScript/lektioner/2021-10-19/index.html,a\8\a8118fd93583e51435eac1b3dcb28c6241f2bdf2
+h
+8JavaScript/codecademy/exercices/Magic Eight Ball/main.js,4\5\455262502d17faa3bb6e1de3559027226623f75a
+f
+6JavaScript/lektioner/2021-10-19/chooseOne/chooseOne.js,d\e\dee842498bdf3f494c40a7af4127856c39ac1082
+\
+,JavaScript/lektioner/2021-10-19/js/script.js,d\d\dde67e83a701a469b2b0edb5a16b40ebdd876818
