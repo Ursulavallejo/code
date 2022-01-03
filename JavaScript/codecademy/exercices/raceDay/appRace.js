@@ -2,6 +2,7 @@ let raceNumber = Math.floor(Math.random()* 1000)
 let status = false
 let age  = 12
 
+
 if (age === 18 && status === true){
     raceNumber += 1000
 }

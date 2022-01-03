@@ -1,0 +1,63 @@
+:root {
+    --dark-primary-color: #FBC02D;
+    --light-primary-color: #FFF9C4;
+    --primary-color: #FFEB3B;
+    --text-icons: #212121;
+    --background-color: #BDBDBD;
+}
+
+* {
+    box-sizing: border-box;
+    font-size: 50px;
+}
+@font-face {
+    font-family: 'Oswald-Bold';
+    src: url('../font/oswaldFont/Oswald-Bold.ttf')
+}
+@font-face {
+    font-family: 'Oswald-Light';
+    src: url('../font/oswaldFont/Oswald-Light.ttf')
+}
+@font-face {
+    font-family: 'Oswald-Medium';
+    src: url('../font/oswaldFont/Oswald-Medium.ttf')
+}
+@font-face {
+    font-family: 'Oswald-ExtraLight';
+    src: url('../font/oswaldFont/Oswald-ExtraLight.ttf')
+}
+@font-face {
+    font-family: 'Oswald-Regular';
+    src: url('../font/oswaldFont/Oswald-Regular.ttf')
+}
+body {
+    font-family: 'Oswald-Regular', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--background-color);
+}
+
+h1 {
+    font-family: Oswald-Bold, sans-serif;
+    color: var(--dark-primary-color);
+}
+h1:hover {
+    font-family: Oswald-Light, sans-serif;
+}
+
+h2 {
+    font-family: Oswald-Medium, sans-serif;
+    color: var(--light-primary-color);
+}
+h2:hover {
+    font-family: Oswald-ExtraLight, sans-serif;
+}
+
+h3 {
+    color: var(--primary-color)
+}
+
+h4 {
+    color: var(--text-icons)
+}
+

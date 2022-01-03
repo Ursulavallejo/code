@@ -2,29 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc71d184-115d-4a44-8990-796d8909ae42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-19/chooseOne/chooseOne.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-19/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-19/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-19/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/0828dc577d4f9a3d1400e0ca9eb16b3b07506091" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/395cedf91748e1c57dec86d827467bd7b9a8821d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/427037a99226678bba6857ce8c40898264c0cf1a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/437f5919109fe85a61aa00513ed979cc835ab13a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/455262502d17faa3bb6e1de3559027226623f75a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5a58c12d2f73a6879b2659cb10beb8a0dd14db92" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5bc10dda23cb2377579eb2a85649e50d1f8ba9ec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67f5da6738211a5a0298c12b32f97a6b0ad629ac" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8b76a3d56119ed4d7a78033c4b6abee16c4bd40d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/93f0315633dfd35998e07b5a77a4504068e17512" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8923806ae31fc0e3c2702277f9fe52c9da62bd5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/cad57bc4738bd5a1ab9572b16fd98f29c1ac37e0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/dac9fa41bae758f7eee526a68d93b3cafc3fed2e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e120b29ea9b9d483a7f8e9acea5edf2b2943ed43" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/eae92cb0f270a4103ed02aee5624ea23a7c547a7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f042d8ae22463ea3e5a92fccc9778779471ddd72" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fedfb7cb0c032dc43f80445f8caea8a001ada25f" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gränssnittsdesign/Importfonts061221/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gränssnittsdesign/Importfonts061221/font/oswaldFont/Oswald-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gränssnittsdesign/Importfonts061221/font/oswaldFont/Oswald-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gränssnittsdesign/Importfonts061221/font/oswaldFont/Oswald-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gränssnittsdesign/Importfonts061221/font/oswaldFont/Oswald-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gränssnittsdesign/Importfonts061221/font/oswaldFont/Oswald-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gränssnittsdesign/Importfonts061221/font/oswaldFont/Oswald-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gränssnittsdesign/Importfonts061221/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-25/rep1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-25/rep1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-25/rep1/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-25/rep2/css/card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-25/rep2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-25/rep2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-25/rep2/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/musicStore/css/card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/musicStore/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/musicStore/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/musicStore/js/notes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/musicStore/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8118fd93583e51435eac1b3dcb28c6241f2bdf2" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/codecademy/exercices/raceDay/appRace.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/codecademy/exercices/raceDay/appRace.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +36,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -56,6 +58,7 @@
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -64,16 +67,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Git\code\JavaScript\lektioner" />
       <recent name="C:\Git\code\JavaScript\2021-10-11\img" />
       <recent name="C:\Git\code\JavaScript\studiematerial\concatenating_strings" />
       <recent name="C:\Git\code\JavaScript" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Git\code\Gränssnittsdesign\Importfonts061221\font\oswaldFont" />
+      <recent name="C:\Git\code\Gränssnittsdesign\Importfonts061221\font" />
+      <recent name="C:\Git\code\JavaScript\musicStore\js" />
       <recent name="C:\Git\code\JavaScript\lektioner\2021-10-18\componenter\js" />
       <recent name="C:\Git\code\JavaScript\lektioner" />
-      <recent name="C:\Git\code\JavaScript\codecademy\exercices" />
-      <recent name="C:\Git\code\JavaScript\2021-10-12\js" />
-      <recent name="C:\Git\code\JavaScript\codecademy\introduction" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.chooseOne.js">
@@ -131,6 +135,17 @@
       <workItem from="1634022251920" duration="21429000" />
       <workItem from="1634193898679" duration="56234000" />
       <workItem from="1634628036038" duration="10892000" />
+      <workItem from="1635164256215" duration="71000" />
+      <workItem from="1635193666432" duration="7667000" />
+      <workItem from="1635246502689" duration="1299000" />
+      <workItem from="1635265615910" duration="6049000" />
+      <workItem from="1635313398030" duration="5979000" />
+      <workItem from="1635426333936" duration="5379000" />
+      <workItem from="1638785525351" duration="5925000" />
+      <workItem from="1638878701345" duration="2092000" />
+      <workItem from="1639131727233" duration="55000" />
+      <workItem from="1639481180978" duration="163000" />
+      <workItem from="1641205156927" duration="5896000" />
     </task>
     <servers />
   </component>
