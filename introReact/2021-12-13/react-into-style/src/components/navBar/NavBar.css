@@ -3,7 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: var(--dark-grey);
 }
 
 li {
@@ -12,16 +12,16 @@ li {
 
 li a {
     display: block;
-    color: white;
+    color: var(--tint-dark-grey-3);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 li a:hover:not(.active) {
-    background-color: #111;
+    background-color: var(--tint-dark-grey-13);
 }
 
 .active {
-    background-color: #04AA6D;
+    background-color: var(--light-brilliant-orange);
 }
