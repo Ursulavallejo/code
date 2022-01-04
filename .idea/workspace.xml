@@ -2,13 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc71d184-115d-4a44-8990-796d8909ae42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/introReact/2021-12-13/react-into-style/src/components/footer/Footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/components/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/components/Contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/components/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/components/footer/Footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/components/footer/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/components/navBar/NavBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/components/navBar/NavBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/utils/global/css/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/utils/global/fonts/Alegreya_Sans/AlegreyaSans-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/utils/global/fonts/Alegreya_Sans/AlegreyaSans-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/utils/global/fonts/Alegreya_Sans/AlegreyaSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/utils/global/fonts/Alegreya_Sans/AlegreyaSans-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/utils/global/fonts/Alegreya_Sans/AlegreyaSans-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/utils/global/fonts/Alegreya_Sans/AlegreyaSans-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/utils/global/fonts/Alegreya_Sans/AlegreyaSans-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/utils/global/fonts/Alegreya_Sans/AlegreyaSans-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/utils/global/fonts/Alegreya_Sans/AlegreyaSans-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/utils/global/fonts/Alegreya_Sans/AlegreyaSans-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/utils/global/fonts/Alegreya_Sans/AlegreyaSans-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/utils/global/fonts/Alegreya_Sans/AlegreyaSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/utils/global/fonts/Alegreya_Sans/AlegreyaSans-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/utils/global/fonts/Alegreya_Sans/AlegreyaSans-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/utils/global/fonts/Alegreya_Sans/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/utils/global/fonts/Oleo_Script/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/utils/global/fonts/Oleo_Script/OleoScript-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-17/frontend/src/utils/global/fonts/Oleo_Script/OleoScript-Regular.ttf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introReact/2021-12-13/react-into-style/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/introReact/2021-12-13/react-into-style/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introReact/2021-12-13/react-into-style/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/introReact/2021-12-13/react-into-style/src/components/footer/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introReact/2021-12-13/react-into-style/src/components/NavBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/introReact/2021-12-13/react-into-style/src/components/navBar/NavBar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introReact/2021-12-13/react-into-style/src/components/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/introReact/2021-12-13/react-into-style/src/components/navBar/NavBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introReact/2021-12-13/react-into-style/src/utils/global/css/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/introReact/2021-12-13/react-into-style/src/utils/global/css/global.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +41,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -46,7 +68,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cm_gy_web2108" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/introReact/2021-12-17/frontend/src" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
@@ -57,17 +79,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Git\code\introReact\2021-12-17\frontend\src" />
+      <recent name="C:\Git\code\introReact\2021-12-17\frontend\src\components" />
       <recent name="C:\Git\code\JavaScript\lektioner" />
       <recent name="C:\Git\code\JavaScript\2021-10-11\img" />
       <recent name="C:\Git\code\JavaScript\studiematerial\concatenating_strings" />
-      <recent name="C:\Git\code\JavaScript" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Git\code\introReact\2021-12-13\react-into-style\src" />
       <recent name="C:\Git\code\introReact\2021-12-13\react-into-style\src\components\navBar" />
       <recent name="C:\Git\code\introReact\2021-12-13\react-into-style\src\components\footer" />
       <recent name="C:\Git\code\introReact\2021-12-13\react-into-style\src\utils\global\fonts" />
       <recent name="C:\Git\code\Gränssnittsdesign\Importfonts061221\font\oswaldFont" />
-      <recent name="C:\Git\code\Gränssnittsdesign\Importfonts061221\font" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.chooseOne.js">
@@ -136,7 +159,7 @@
       <workItem from="1639131727233" duration="55000" />
       <workItem from="1639481180978" duration="163000" />
       <workItem from="1641205156927" duration="5896000" />
-      <workItem from="1641212028221" duration="11490000" />
+      <workItem from="1641212028221" duration="16027000" />
     </task>
     <servers />
   </component>
