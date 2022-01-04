@@ -195,9 +195,3 @@ j
 :introReact/2021-12-06/my-first-react-app/public/index.html,0\a\0a1f8d5f309b69ebf8079c7cb0618d0ee8ad620b
 f
 6introReact/2021-12-06/my-first-react-app/src/index.css,a\3\a36fc7132079f3c2733cc0e7dce6da8e3c4baef9
-e
-5introReact/2021-12-06/my-first-react-app/src/index.js,c\9\c9dfccb363fd75bbc517611c235b73839b428b1f
-c
-3introReact/2021-12-06/my-first-react-app/src/App.js,8\8\88dff58a0e6050086825aead370b98aeae99ff8b
-d
-4introReact/2021-12-06/my-first-react-app/src/App.css,3\5\357223766903c0badbc42df9b4d86e1eb9af1afb

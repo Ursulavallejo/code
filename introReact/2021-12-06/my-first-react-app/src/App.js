@@ -1,7 +1,7 @@
 
 import './App.css';
 import myLogo from './logo.svg';
-
+import MyButton from './components/MyButton'
 function App() {
     let name = 'Lars'
 
@@ -13,6 +13,7 @@ function App() {
         <p> Hej { name }</p>
         <p > {text}</p>
       <img src={myLogo} alt="logo" id='my-logo'/>
+        <MyButton/>
     </section>
   );
 }

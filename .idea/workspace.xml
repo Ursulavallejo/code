@@ -2,31 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc71d184-115d-4a44-8990-796d8909ae42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Gränssnittsdesign/Importfonts061221/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gränssnittsdesign/Importfonts061221/font/oswaldFont/Oswald-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gränssnittsdesign/Importfonts061221/font/oswaldFont/Oswald-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gränssnittsdesign/Importfonts061221/font/oswaldFont/Oswald-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gränssnittsdesign/Importfonts061221/font/oswaldFont/Oswald-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gränssnittsdesign/Importfonts061221/font/oswaldFont/Oswald-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gränssnittsdesign/Importfonts061221/font/oswaldFont/Oswald-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gränssnittsdesign/Importfonts061221/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-25/rep1/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-25/rep1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-25/rep1/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-25/rep2/css/card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-25/rep2/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-25/rep2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/lektioner/2021-10-25/rep2/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/musicStore/css/card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/musicStore/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/musicStore/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/musicStore/js/notes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/musicStore/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8118fd93583e51435eac1b3dcb28c6241f2bdf2" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-06/my-first-react-app/src/components/MyButton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-06/my-first-react-app/src/components/MyButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-13/react-into-style/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-13/react-into-style/src/components/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-13/react-into-style/src/components/NavBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-13/react-into-style/src/components/NavBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introReact/2021-12-13/react-into-style/src/utils/global/css/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/357223766903c0badbc42df9b4d86e1eb9af1afb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/88dff58a0e6050086825aead370b98aeae99ff8b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c9dfccb363fd75bbc517611c235b73839b428b1f" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/codecademy/exercices/raceDay/appRace.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/codecademy/exercices/raceDay/appRace.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introReact/2021-12-06/my-first-react-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/introReact/2021-12-06/my-first-react-app/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,14 +24,22 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1xUV4BBYq9rvFJTKakTZ62Sy2bS" />
   <component name="ProjectViewState">
@@ -73,11 +69,11 @@
       <recent name="C:\Git\code\JavaScript" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Git\code\introReact\2021-12-13\react-into-style\src\utils\global\fonts" />
       <recent name="C:\Git\code\Gränssnittsdesign\Importfonts061221\font\oswaldFont" />
       <recent name="C:\Git\code\Gränssnittsdesign\Importfonts061221\font" />
       <recent name="C:\Git\code\JavaScript\musicStore\js" />
       <recent name="C:\Git\code\JavaScript\lektioner\2021-10-18\componenter\js" />
-      <recent name="C:\Git\code\JavaScript\lektioner" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.chooseOne.js">
@@ -146,6 +142,7 @@
       <workItem from="1639131727233" duration="55000" />
       <workItem from="1639481180978" duration="163000" />
       <workItem from="1641205156927" duration="5896000" />
+      <workItem from="1641212028221" duration="7845000" />
     </task>
     <servers />
   </component>
