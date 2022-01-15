@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: lightslategray;
+}
+
+header {
+    text-align: center;
+    color: rebeccapurple;
+    font-size: 32px;
+    font-family: Tahoma, serif;
+}
+.wrap-container {
+    background-color: white;
+  padding-bottom: 2em;
+    margin-right: 1.5em;
+    margin-left: 1.5em;
+}
+article {
+    border: 1px solid purple;
+    margin: 2em;
+}
+
+.redArticle {
+    color: red;
+}
+.greenArticle{
+    color: green;
+}
+span {
+    text-decoration: underline;
+}
+.textLayout1 {
+    font-size: 17px;
+    text-decoration: underline;
+    font-weight: 600;
+}
