@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc71d184-115d-4a44-8990-796d8909ae42" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/2022-01-13/frontend/src/utils/global/fonts/AlegreyaSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/2022-01-13/frontend/src/utils/global/fonts/OleoScript-Regular.ttf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Webbutveckling_2/2022-01-13/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Webbutveckling_2/2022-01-13/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Webbutveckling_2/2022-01-13/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Webbutveckling_2/2022-01-13/frontend/src/utils/global/css/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Webbutveckling_2/2022-01-13/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Webbutveckling_2/2022-01-13/frontend/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +70,11 @@
       <recent name="C:\Git\code\JavaScript\2021-10-11\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Git\code\Webbutveckling_2\2022-01-13\frontend\src\utils\global\fonts" />
+      <recent name="C:\Git\code\Webbutveckling_2\2022-01-13\frontend\src\utils\global\css" />
+      <recent name="C:\Git\code\Webbutveckling_2\2022-01-13\frontend\src\utils\global" />
       <recent name="C:\Git\code\Webbutveckling_2\2022-01-11\frontend\src\components" />
       <recent name="C:\Git\code\introReact\2021-12-13\react-into-style\src" />
-      <recent name="C:\Git\code\introReact\2021-12-13\react-into-style\src\components\navBar" />
-      <recent name="C:\Git\code\introReact\2021-12-13\react-into-style\src\components\footer" />
-      <recent name="C:\Git\code\introReact\2021-12-13\react-into-style\src\utils\global\fonts" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.chooseOne.js">
@@ -144,7 +149,7 @@
       <workItem from="1641979057636" duration="23000" />
       <workItem from="1641991639325" duration="2849000" />
       <workItem from="1642061013225" duration="3676000" />
-      <workItem from="1642245366395" duration="14477000" />
+      <workItem from="1642245366395" duration="17827000" />
     </task>
     <servers />
   </component>
