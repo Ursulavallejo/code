@@ -1,8 +1,9 @@
-
+import NavBar from "./components/NavBar/NavBar";
 
 function App() {
   return (
       <>
+          <NavBar/>
       <h1>App</h1>
         <h2>something</h2>
           <button className='primary-button'>Primary</button>

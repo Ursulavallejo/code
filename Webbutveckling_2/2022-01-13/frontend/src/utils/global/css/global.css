@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 :root {
     --primary-color: #F59302;
     --primary-background-color: #1A1A1A;
@@ -35,7 +39,7 @@ h1 {
 h2 {
     color: var(--primary-color);
 }
-h2, h3, h4, h6, p, span, button {
+h2, h3, h4, h6, p, span, button, a  {
     font-family: 'Alegreya Sans Regular', serif;
 }
 
