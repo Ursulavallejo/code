@@ -10,7 +10,7 @@ export default function NavBar(){
             <div>
                 <ul className='links'>
                     <li className='link-items'>
-                        <a href="#" className='link-item-a'>Startsidan</a>
+                        <a href="#" className='link-item-a active'>Startsidan</a>
                     </li>
                     <li className='link-items'>
                         <a href="#" className='link-item-a'>våra kurser</a>
@@ -27,8 +27,8 @@ export default function NavBar(){
                 </ul>
             </div>
             <div>
-                <button>Log in</button>
-                <button>Sign up</button>
+                <button className='nav-button-black'>Log in</button>
+                <button className='nav-button-grey'>Sign up</button>
             </div>
         </nav>
     )
