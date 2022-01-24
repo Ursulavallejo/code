@@ -1,20 +1,21 @@
 
-const PrimaryButton = () => {
+const PrimaryButton = (props) => {
     return (
-        <button onClick = {} => {
-            console.log('Primary button clicked')
-        }}>PrimaryButton</button>
-)
-}
-const SecondaryButton = ()  => {
-    return (
-        <button onClick={} => {
-            console.log('Secondary button clicked')
-        }}>SecondaryButton</button>
+        <button onClick = { props.onClick }>
+            {props.children}
+        </button>
 )
 }
 
-export default {
+const SecondaryButton = ({ onClick, children })  => {
+    return (
+        <button onClick = { onClick }>
+            { children }
+        </button>
+)
+}
+
+export  {
     PrimaryButton,
     SecondaryButton
 }

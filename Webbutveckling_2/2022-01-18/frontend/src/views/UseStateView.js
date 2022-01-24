@@ -13,7 +13,7 @@ const navigate = useNavigate()
 
 const [name, setName] = useState('Carin')
 const [password, setPassword] = useState('')
-console.log(name)
+// console.log(name)
 
 function verifyUser() {
     if (name === authenticatedUser.username && password === authenticatedUser.password) {
