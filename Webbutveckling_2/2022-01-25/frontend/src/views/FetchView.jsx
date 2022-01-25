@@ -8,6 +8,7 @@ const FetchView = () => {
         fetch( 'https://jsonplaceholder.typicode.com/users ')
             .then(response => response.json())
             .then(jsonData => {
+                // console.log(jsonData)
                 setJsonUsers(jsonData)
             })
     }
