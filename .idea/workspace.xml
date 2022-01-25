@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc71d184-115d-4a44-8990-796d8909ae42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/2022-01-25/frontend/src/components/NavBar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/2022-01-25/frontend/src/components/NavBar.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/2022-01-25/frontend/src/router/Routing.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/2022-01-25/frontend/src/router/RoutingPath.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/2022-01-25/frontend/src/views/AxiosView.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/2022-01-25/frontend/src/views/FetchView.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/2022-01-25/frontend/src/views/HomeView.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Webbutveckling_2/2022-01-25/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Webbutveckling_2/2022-01-25/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Webbutveckling_2/2022-01-25/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Webbutveckling_2/2022-01-25/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Webbutveckling_2/2022-01-25/frontend/src/views/FetchView.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Webbutveckling_2/2022-01-25/frontend/src/views/FetchView.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +151,7 @@
       <workItem from="1642245366395" duration="25955000" />
       <workItem from="1642494800864" duration="45684000" />
       <workItem from="1643100698521" duration="2385000" />
-      <workItem from="1643103314108" duration="3666000" />
+      <workItem from="1643103314108" duration="4985000" />
     </task>
     <servers />
   </component>
