@@ -3,7 +3,7 @@ import RoutingPath from "./RoutingPath";
 import HomeView from "../views/HomeView";
 import FetchView from "../views/FetchView";
 import AxiosView from "../views/AxiosView";
-import PokeView from "../views/AxiosView";
+import PokeView from "../views/PokeView";
 
 const Routing = (props) => {
 
