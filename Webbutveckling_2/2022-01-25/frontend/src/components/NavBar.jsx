@@ -17,6 +17,9 @@ const NavBar = () => {
                 <li className={classes.item}>
                     <Link className={classes.links} to={RoutingPath.axiosView}>AxiosView</Link>
                 </li>
+                <li className={classes.item}>
+                    <Link className={classes.links} to={RoutingPath.pokeView}>PokeView</Link>
+                </li>
 
             </ul>
         </nav>

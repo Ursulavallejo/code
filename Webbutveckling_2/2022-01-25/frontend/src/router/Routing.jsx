@@ -3,6 +3,7 @@ import RoutingPath from "./RoutingPath";
 import HomeView from "../views/HomeView";
 import FetchView from "../views/FetchView";
 import AxiosView from "../views/AxiosView";
+import PokeView from "../views/AxiosView";
 
 const Routing = (props) => {
 
@@ -13,6 +14,7 @@ const Routing = (props) => {
             <Route path={ RoutingPath.homeView } element={ <HomeView/>}/>
             <Route path={ RoutingPath.fetchView } element={ <FetchView/>}/>
             <Route path={ RoutingPath.axiosView } element={ <AxiosView/>}/>
+            <Route path={ RoutingPath.pokeView } element={ <PokeView/>}/>
         </Routes>
         </BrowserRouter>
     )
