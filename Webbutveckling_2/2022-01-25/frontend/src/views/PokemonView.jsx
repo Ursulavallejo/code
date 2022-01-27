@@ -1,20 +1,20 @@
-import axios from "axios";
-import {JsonToTable} from "react-json-to-table";
-import { useState} from "react";
 
-const PokeView = () => {
+import { useState} from "react";
+import PokemonService from "../utils/api/service/PokemonService";
+
+const PokemonView = () => {
 
     const [data, setData] = useState([])
     const [search, setSearch] = useState('ditto')
-    const [showTable, setShowTable] = useState(false)
 
-    function fetchDataFromExternalApi(){
-        axios.get( `https://pokeapi.co/api/v2/pokemon/${search.toLowerCase()}`)
+
+    function fetchDataFromExternalApi() {
+        PokemonService.searchForPokemon(search.toLowerCase())
             .then((response) => {
-                // console.log(response.data)
+                console.log(response.data)
                 setData(response.data)
             })
-            .catch( (error) => console.log(error))
+            .catch((error) => console.log(error))
     }
 
     function displayData() {
@@ -29,34 +29,19 @@ const PokeView = () => {
         }
     }
 
-    function displayTable() {
-        if (data.length !== 0 && showTable) {
-            return <JsonToTable json={data}/>
-
-        }
-    }
-
-    function updateTable(newValue) {
-        setShowTable(newValue)
-    }
 
     return (
         <>
-        <h1>PokeView</h1>
+        <h1>PokemonView</h1>
 
             Search for pokemon: <input value={search} type='search' onChange={ event => setSearch(event.target.value)}/>
 
             <button onClick={ () => fetchDataFromExternalApi() }>Make Api call</button>
             <button onClick={ () => setData([]) }> Reset</button>
             <button onClick={ () => console.log(data)}>ShowState</button>
-            {/*<h3> { search } </h3>*/}
             { displayData()}
-            <button onClick={ () => setShowTable(!showTable)}>Toggle table on/off</button>
-            <button onClick={ () => updateTable(!showTable) }>Toggle updateTable on/off</button>
-            { displayTable()}
-
         </>
     )
 }
 
-export default PokeView
+export default PokemonView
