@@ -5,15 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc71d184-115d-4a44-8990-796d8909ae42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/2022-01-27/frontend/src/components/navBar/NavBar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/2022-01-27/frontend/src/components/navBar/NavBar.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/2022-01-27/frontend/src/router/Routing.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/2022-01-27/frontend/src/router/RoutingPath.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/contextShop/context/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/contextShop/context/src/components/basket/BasketItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/contextShop/context/src/components/basket/BasketList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/contextShop/context/src/components/shop/CardItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/contextShop/context/src/components/shop/CardList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/contextShop/context/src/context/storeContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/contextShop/context/src/utils/data/dataProducts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/contextShop/context/src/utils/images/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/contextShop/context/src/utils/images/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/contextShop/context/src/utils/images/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/contextShop/context/src/utils/images/img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/contextShop/context/src/utils/images/img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/contextShop/context/src/utils/images/img6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/contextShop/context/src/utils/images/img7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webbutveckling_2/contextShop/context/src/utils/images/img8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Webbutveckling_2/2022-01-27/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Webbutveckling_2/2022-01-27/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Webbutveckling_2/2022-01-27/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Webbutveckling_2/2022-01-27/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Webbutveckling_2/2022-01-27/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Webbutveckling_2/2022-01-27/frontend/src/utils/global/css/global.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Webbutveckling_2/2022-01-27/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Webbutveckling_2/2022-01-27/frontend/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +31,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -40,6 +48,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1xUV4BBYq9rvFJTKakTZ62Sy2bS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -52,7 +63,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Webbutveckling_2/2022-01-25/frontend/src/views" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Webbutveckling_2/contextShop/context/src/utils/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -67,18 +78,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Git\code\Webbutveckling_2\contextShop\context\src\utils\images" />
       <recent name="C:\Git\code\Webbutveckling_2\2022-01-25\frontend\src\views" />
       <recent name="C:\Git\code\Webbutveckling_2\2022-01-11\frontend\src\components" />
       <recent name="C:\Git\code\introReact\2021-12-17\frontend\src" />
       <recent name="C:\Git\code\introReact\2021-12-17\frontend\src\components" />
-      <recent name="C:\Git\code\JavaScript\lektioner" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Git\code\Webbutveckling_2\contextShop\context\src\utils\data\global" />
+      <recent name="C:\Git\code\Webbutveckling_2\contextShop\context\src" />
       <recent name="C:\Git\code\Webbutveckling_2\2022-01-27\frontend\src\utils\global\css" />
       <recent name="C:\Git\code\Webbutveckling_2\2022-01-25\frontend\src\utils\global\css" />
       <recent name="C:\Git\code\Webbutveckling_2\2022-01-20\src\components\scroll" />
-      <recent name="C:\Git\code\Webbutveckling_2\2022-01-20\src\utils\global\fonts" />
-      <recent name="C:\Git\code\Webbutveckling_2\2022-01-20\src\utils\global\css" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.chooseOne.js">
@@ -156,7 +167,8 @@
       <workItem from="1642245366395" duration="25955000" />
       <workItem from="1642494800864" duration="45684000" />
       <workItem from="1643100698521" duration="2385000" />
-      <workItem from="1643103314108" duration="24687000" />
+      <workItem from="1643103314108" duration="28028000" />
+      <workItem from="1643997964198" duration="2626000" />
     </task>
     <servers />
   </component>
@@ -173,7 +185,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -244,7 +255,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/Webbutveckling_2/2022-01-25/frontend/src/views/PokeView.jsx</url>
           <line>20</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
