@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc71d184-115d-4a44-8990-796d8909ae42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-08/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-08/first_server/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-08/second_server/.env_template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-08/second_server/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-08/third_server/.env_template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-08/third_server/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-10/calcApi/.env_template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-10/calcApi/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-10/repetition/array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-10/repetition/object.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-10/repetition/object2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-10/calcApi/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-10/calcApi/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-10/calcApi" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/uppgifter webb" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -170,7 +158,7 @@
       <workItem from="1644081633129" duration="4168000" />
       <workItem from="1644311646883" duration="9206000" />
       <workItem from="1644324644609" duration="13618000" />
-      <workItem from="1644835916232" duration="8930000" />
+      <workItem from="1644835916232" duration="9794000" />
     </task>
     <servers />
   </component>

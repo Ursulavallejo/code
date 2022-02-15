@@ -63,7 +63,7 @@ app.post('/calc/div/:num1/:num2',((req, res) => {
     let number2 = Number(req.params.num2)
     let sum = number1 / number2
     if (number2 ===0) {
-        res.send('Division med noll är inte tillåtet')
+       return  res.send('Division med noll är inte tillåtet')
     }
     res.send(`Kvoten av talen ${ number1 } / ${ number2 } = ${ sum } `)
 }))
