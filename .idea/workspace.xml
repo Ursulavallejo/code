@@ -5,29 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc71d184-115d-4a44-8990-796d8909ae42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/frontend/src/components/Alive.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/frontend/src/components/Name.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/frontend/src/utils/api/MyAPI.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/frontend/src/utils/api/services/MyAPIService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/Övning/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/Övning/backend/.env_template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/Övning/backend/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/Övning/backend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/Övning/backend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/Övning/frontend/src/components/Addition.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/Övning/frontend/src/components/Alive.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/Övning/frontend/src/components/Division.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/Övning/frontend/src/components/Multiplication.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/Övning/frontend/src/components/Name.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/Övning/frontend/src/components/Subtraction.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/Övning/frontend/src/utils/api/MyAPI.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/Övning/frontend/src/utils/api/services/MyAPIService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/backend/.env_template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/backend/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/backend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/backend/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-10/calcApi/.env_template" beforeDir="false" afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/backend/.env_template" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-10/calcApi/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/backend/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-10/calcApi/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/backend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-10/calcApi/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/backend/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +52,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/Övning/backend" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-15/backend" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -84,18 +67,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Git_projects\code\webbserverProgrammering_1\2022-02-15\Övning\backend" />
-      <recent name="C:\Git_projects\code\webbserverProgrammering_1\2022-02-15\backend" />
+      <recent name="C:\Git\code\webbserverProgrammering_1\2022-02-15\backend" />
       <recent name="C:\Git\code\webbserverProgrammering_1\2022-02-10\calcApi" />
       <recent name="C:\Git\code" />
       <recent name="C:\Git\code\Webbutveckling_2\contextShop\context\src\utils\images" />
+      <recent name="C:\Git\code\Webbutveckling_2\2022-01-25\frontend\src\views" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Git_projects\code\webbserverProgrammering_1\2022-02-15\Övning\frontend\src\utils\styles" />
-      <recent name="C:\Git_projects\code\webbserverProgrammering_1\2022-02-15\Övning\backend" />
-      <recent name="C:\Git_projects\code\webbserverProgrammering_1\2022-02-15\frontend\src\utils\styles" />
       <recent name="C:\Git\code\webbserverProgrammering_1\2022-02-08" />
       <recent name="C:\Git\code\Webbutveckling_2\contextShop\context\src\utils\data\global" />
+      <recent name="C:\Git\code\Webbutveckling_2\contextShop\context\src" />
+      <recent name="C:\Git\code\Webbutveckling_2\2022-01-27\frontend\src\utils\global\css" />
+      <recent name="C:\Git\code\Webbutveckling_2\2022-01-25\frontend\src\utils\global\css" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.object2.js">
@@ -180,8 +163,7 @@
       <workItem from="1644311646883" duration="9206000" />
       <workItem from="1644324644609" duration="13618000" />
       <workItem from="1644835916232" duration="9794000" />
-      <workItem from="1644933271354" duration="9983000" />
-      <workItem from="1645018682929" duration="6576000" />
+      <workItem from="1644915758460" duration="2338000" />
     </task>
     <servers />
   </component>
