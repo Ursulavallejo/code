@@ -1,9 +1,19 @@
 import express from 'express'
 import dotenv from 'dotenv'
+import cors from 'cors'
 
 dotenv.config()
 const port = process.env.SERVER_PORT
 const app = express()
+
+// configure Cors
+const options = {
+    origin:'*',
+    methods:['GET', 'POST', 'PUT', 'DELETE']
+}
+
+app.use(cors(options))
+
 
 
 //GET

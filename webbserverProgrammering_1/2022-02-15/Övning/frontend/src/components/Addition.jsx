@@ -5,8 +5,8 @@ import MyAPIService from "../utils/api/services/MyAPIService";
 
 const Addition = () => {
     const [data, setData] = useState('')
-    const [yourNumber1, setYourNumber1] = useState('')
-    const [yourNumber2, setYourNumber2] = useState('')
+    const [yourNumber1, setYourNumber1] = useState('0')
+    const [yourNumber2, setYourNumber2] = useState('0')
 
     function fetchDataFromExternalApi(){
         MyAPIService.calculator_addition(yourNumber1,yourNumber2)
