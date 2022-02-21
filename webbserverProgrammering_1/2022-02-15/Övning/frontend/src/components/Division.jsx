@@ -4,8 +4,8 @@ import MyAPIService from "../utils/api/services/MyAPIService";
 
 const Division = () => {
     const [data, setData] = useState('')
-    const [yourNumber1, setYourNumber1] = useState('')
-    const [yourNumber2, setYourNumber2] = useState('')
+    const [yourNumber1, setYourNumber1] = useState(0)
+    const [yourNumber2, setYourNumber2] = useState(0)
 
     function fetchDataFromExternalApi() {
         MyAPIService.calculator_division(yourNumber1, yourNumber2)
@@ -26,13 +26,13 @@ const Division = () => {
         <>
             <h1>Division</h1>
             Enter two numbers to calculate a division :
-            <input type="text"
+            <input type="number"
                    value={yourNumber1}
-                   onChange={event => setYourNumber1(event.target.value)}/>
+                   onChange={event => setYourNumber1(Number(event.target.value))}/>
             <span> / </span>
-            <input type="text"
+            <input type="number"
                    value={yourNumber2}
-                   onChange={event => setYourNumber2(event.target.value)}/>
+                   onChange={event => setYourNumber2(Number(event.target.value))}/>
             <button onClick={() => fetchDataFromExternalApi()}>Make API call</button>
             {displayData()}
         </>

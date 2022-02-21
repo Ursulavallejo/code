@@ -5,7 +5,7 @@ import MyAPIService from "../utils/api/services/MyAPIService";
 
 const Name = () => {
     const [data, setData] = useState('')
-    const [yourName, setYourName] = useState('Lars')
+    const [yourName, setYourName] = useState('Ursula')
 
     function fetchDataFromExternalApi(){
         MyAPIService.welcome_message(yourName)

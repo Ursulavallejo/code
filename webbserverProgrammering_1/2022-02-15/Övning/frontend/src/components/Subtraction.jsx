@@ -5,8 +5,8 @@ import MyAPIService from "../utils/api/services/MyAPIService";
 
 const Subtraction = () => {
     const [data, setData] = useState('')
-    const [yourNumber1, setYourNumber1] = useState('')
-    const [yourNumber2, setYourNumber2] = useState('')
+    const [yourNumber1, setYourNumber1] = useState(0)
+    const [yourNumber2, setYourNumber2] = useState(0)
 
     function fetchDataFromExternalApi(){
         MyAPIService.calculator_subtraction(yourNumber1,yourNumber2)
@@ -27,13 +27,13 @@ const Subtraction = () => {
         <>
             <h1>Subtraction</h1>
             Enter two numbers to calculate a subtraction :
-            <input type="text"
+            <input type="number"
                    value={ yourNumber1 }
-                   onChange={event => setYourNumber1(event.target.value) }/>
+                   onChange={event => setYourNumber1(Number(event.target.value)) }/>
             <span> - </span>
-            <input type="text"
+            <input type="number"
                    value={ yourNumber2 }
-                   onChange={event => setYourNumber2(event.target.value) }/>
+                   onChange={event => setYourNumber2(Number(event.target.value)) }/>
             <button onClick={() => fetchDataFromExternalApi()}>Make API call</button>
             { displayData() }
         </>
