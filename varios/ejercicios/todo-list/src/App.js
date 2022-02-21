@@ -13,9 +13,6 @@ function App() {
 
   return (
     <>
-    <h1>APP</h1>
-
-
       <LoginContext.Provider value={{loggedIn, setLoggedIn}}>
         <Routing>
           <Header/>

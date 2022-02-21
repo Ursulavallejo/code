@@ -1,7 +1,7 @@
 import {BrowserRouter, Route, Routes} from 'react-router-dom';
 import RoutingPath from "./RoutingPath";
 
-import HomeView from '../views/HomeView'
+import HomeView from '../views/homeView/HomeView'
 import SignInView from '../views/signedIn/SignInView'
 import SignedInView from '../views/SignedInView'
 import ContactView from '../views/ContactView'

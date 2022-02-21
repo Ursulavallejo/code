@@ -1,8 +1,8 @@
-import React, { useContext } from 'react';
-import { useNavigate } from "react-router-dom";
-import { LoginContext } from '../../context/LoginProvider';
+import React, {useContext} from 'react';
+import {useNavigate} from "react-router-dom";
+import {LoginContext} from '../../context/LoginProvider';
 
-
+import css from './HeaderStyle.module.css'
 
 
 const Header = () => {
@@ -18,20 +18,30 @@ const Header = () => {
     }
 
     return (
-        <>
-            <header>
 
-                <h1>add some images layout!!!</h1>
+        <header className={css.header}>
 
+            <div className={css.content}>
+                <div className={css.contentContainer}>
+                    <p className={css.contentContainerText}>
+                        My TODO!
+                    </p>
 
-                {loggedIn? <span><p >Hi Ursula!!</p> <p onClick={logOutFunc} >Add some Icon !!(Click to Log Out)</p></span> : null}
+                    <ul className={css.contentContainerList}>
+                        <li className={css.contentContainerItem}> My shopping List!</li>
+                        <li className={css.contentContainerItem}> Meet friends!</li>
+                        <li className={css.contentContainerItem}> My Free time!</li>
+                        <li className={css.contentContainerItem}> All my things To Do!</li>
+                    </ul>
+                </div>
+            </div>
 
+            <aside>
+                {loggedIn ? <span><p>Hi Ursula!!</p><p onClick={logOutFunc}>Add some Icon !!(Click to Log Out)</p></span> : null}
+            </aside>
 
-            </header>
+        </header>
 
-
-
-        </>
 
     )
 };
