@@ -5,17 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc71d184-115d-4a44-8990-796d8909ae42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/components/header/HeaderStyle.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/views/homeView/HomeViewStyle.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/components/navBar/NavBar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/.env_template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/src/configurations/ApplyMiddlewares.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/src/configurations/configutation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/src/controller/AliveController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/src/controller/UserController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/src/data/userDatabase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/src/routes/AliveRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/src/routes/UserRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/src/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo-list/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/components/footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/components/footer/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/components/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/components/header/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/routing/Routing.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/routing/Routing.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/utils/styles/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/utils/styles/global.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/utils/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/utils/styles/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/views/HomeView.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/views/homeView/HomeView.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/components/navBar/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/components/navBar/NavBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/views/homeView/HomeViewStyle.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/views/homeView/HomeViewStyle.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-17/backend/src/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-17/backend/src/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +31,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -57,7 +62,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WEB_2108" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -72,11 +77,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Git_projects\code\webbserverProgrammering_1\2022-02-22" />
       <recent name="C:\Git_projects\code\webbserverProgrammering_1\2022-02-17\backend" />
       <recent name="C:\Git\code\webbserverProgrammering_1\2022-02-15\backend" />
       <recent name="C:\Git\code\webbserverProgrammering_1\2022-02-10\calcApi" />
       <recent name="C:\Git\code" />
-      <recent name="C:\Git\code\Webbutveckling_2\contextShop\context\src\utils\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Git_projects\code\varios\ejercicios\todo-list\src\views\homeView" />
@@ -174,7 +179,7 @@
       <workItem from="1645084807516" duration="425000" />
       <workItem from="1645085258592" duration="17612000" />
       <workItem from="1645168551077" duration="1908000" />
-      <workItem from="1645436974214" duration="23064000" />
+      <workItem from="1645436974214" duration="38309000" />
     </task>
     <servers />
   </component>
@@ -262,6 +267,11 @@
           <url>file://$PROJECT_DIR$/Webbutveckling_2/2022-01-25/frontend/src/views/PokeView.jsx</url>
           <line>20</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/src/configurations/configutation.js</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
