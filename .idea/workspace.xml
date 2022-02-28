@@ -5,22 +5,108 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc71d184-115d-4a44-8990-796d8909ae42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/components/navBar/NavBar.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/.env_template" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/src/configurations/ApplyMiddlewares.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/src/configurations/configutation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/src/controller/AliveController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/src/controller/UserController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/src/data/userDatabase.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/src/routes/AliveRoutes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/src/routes/UserRoutes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/src/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/backend/.env_template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/backend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/backend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/backend/src/configurations/ApplyMiddlewares.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/backend/src/configurations/configuration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/backend/src/controller/AliveController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/backend/src/controller/UserController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/backend/src/data/todoDataBase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/backend/src/routes/AliveRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/backend/src/routes/UserRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/backend/src/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/components/Alive.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/components/card/Card.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/components/card/CardList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/components/navBar/NavBar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/components/user_crud/CreateUser.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/components/user_crud/DeleteUser.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/components/user_crud/GetAllUsers.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/components/user_crud/UpdateUser.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/utils/api/UsersAPI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/utils/api/services/AliveService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/utils/api/services/UsersService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/views/signInView/SignInView.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/backend/.env_template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/backend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/backend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/backend/src/configurations/ApplyMiddlewares.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/backend/src/configurations/configutation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/backend/src/controller/AliveController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/backend/src/controller/UserController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/backend/src/data/userDatabase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/backend/src/routes/AliveRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/backend/src/routes/UserRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/backend/src/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/src/components/Alive.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/src/components/Card.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/src/components/CardList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/src/components/CreateUser.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/src/components/DeleteUsers.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/src/components/GetAllUsers.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/src/components/UpdateUser.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/src/utils/api/UsersAPI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/src/utils/api/service/AliveService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/src/utils/api/service/UsersService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-24/frontend/src/utils/styles/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/2932fc4a562461366bfcf0b69a58230edec2313c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/dd6de531671cdaef63f8f4c7ba390a766be986cb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/components/navBar/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/components/navBar/NavBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/views/homeView/HomeViewStyle.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/views/homeView/HomeViewStyle.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-17/backend/src/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-17/backend/src/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/public/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/public/logo192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/public/logo512.png" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/public/logo512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/components/Todo.js" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/components/Todo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/components/footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/components/footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/components/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/components/header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/components/header/HeaderStyle.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/components/header/HeaderStyle.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/components/navBar/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/components/navBar/NavBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/components/navBar/NavBar.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/context/LoginProvider.js" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/context/LoginProvider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/context/UserProvider.js" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/context/UserProvider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/reportWebVitals.js" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/reportWebVitals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/routing/Routing.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/routing/Routing.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/routing/RoutingPath.js" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/routing/RoutingPath.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/utils/styles/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/utils/styles/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/utils/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/utils/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/views/ContactView.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/views/ContactView.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/views/SignedInView.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/views/signedInView/SignedInView.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/views/homeView/HomeView.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/views/homeView/HomeView.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/views/homeView/HomeViewStyle.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/views/homeView/HomeViewStyle.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/views/signedIn/SignInView.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/views/signInView/SignInView.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/varios/ejercicios/todo-list/src/views/signedIn/SignedInView.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/views/signedInView/SignedInView.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/src/controller/UserController.js" beforeDir="false" afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/src/controller/UserController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/src/routes/UserRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/src/routes/UserRoutes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +137,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1xUV4BBYq9rvFJTKakTZ62Sy2bS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -62,7 +151,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/varios/ejercicios/todo_uppgifter" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -77,18 +166,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Git_projects\code\webbserverProgrammering_1\2022-02-24\frontend\src\components" />
+      <recent name="C:\Git_projects\code\webbserverProgrammering_1\2022-02-24" />
+      <recent name="C:\Git_projects\code\varios\ejercicios\todo_uppgifter\backend" />
       <recent name="C:\Git_projects\code\webbserverProgrammering_1\2022-02-22" />
       <recent name="C:\Git_projects\code\webbserverProgrammering_1\2022-02-17\backend" />
-      <recent name="C:\Git\code\webbserverProgrammering_1\2022-02-15\backend" />
-      <recent name="C:\Git\code\webbserverProgrammering_1\2022-02-10\calcApi" />
-      <recent name="C:\Git\code" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Git_projects\code\webbserverProgrammering_1\2022-02-24\frontend\src\utils\styles" />
+      <recent name="C:\Git_projects\code\varios\ejercicios\todo_uppgifter\todo-list-frontend\src\views\signedInView" />
+      <recent name="C:\Git_projects\code\varios\ejercicios\todo_uppgifter\todo-list-frontend\src\views\signInView" />
+      <recent name="C:\Git_projects\code\varios\ejercicios\todo_uppgifter" />
       <recent name="C:\Git_projects\code\varios\ejercicios\todo-list\src\views\homeView" />
-      <recent name="C:\Git_projects\code\varios\ejercicios\todo-list\src\views\signedIn" />
-      <recent name="C:\Git_projects\code\varios\ejercicios\todo-list\src\utils" />
-      <recent name="C:\Git_projects\code\varios\ejercicios\todo-list\src\views" />
-      <recent name="C:\Git_projects\code\varios\ejercicios\todo-list\src\utils\api\styles" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.object2.js">
@@ -179,7 +268,12 @@
       <workItem from="1645084807516" duration="425000" />
       <workItem from="1645085258592" duration="17612000" />
       <workItem from="1645168551077" duration="1908000" />
-      <workItem from="1645436974214" duration="38309000" />
+      <workItem from="1645436974214" duration="49523000" />
+      <workItem from="1645646852616" duration="5204000" />
+      <workItem from="1645688176685" duration="12801000" />
+      <workItem from="1645776679590" duration="1251000" />
+      <workItem from="1645779393358" duration="12136000" />
+      <workItem from="1646040568491" duration="2494000" />
     </task>
     <servers />
   </component>
@@ -270,8 +364,11 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/webbserverProgrammering_1/2022-02-22/backend/src/configurations/configutation.js</url>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/varios/ejercicios/todo_uppgifter/todo-list-frontend/src/components/header/Header.js</url>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

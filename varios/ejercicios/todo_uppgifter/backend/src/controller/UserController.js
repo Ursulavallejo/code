@@ -1,25 +1,25 @@
-import userDatabase from "../data/userDatabase.js";
+import TodoDatabase from "../data/todoDatabase.js";
 
-const createUser = (req,res) => {
-    const {name, age, gender} = req.body
+const createTodo = (req,res) => {
+    const { todo, name } = req.body
     const newObject = {
-        //database.length
+        id: TodoDatabase.length,
+        todo: todo,
         name: name,
-        age: age,
-        gender: gender
+
     }
-    userDatabase.push(newObject)
-    res.status(201).send(userDatabase)
+    TodoDatabase.push(newObject)
+    res.status(201).send(TodoDatabase)
 }
 
 
-const getUsers = (req,res) => {
-    res.status(200).send(userDatabase)
+const getAllTodos = (req,res) => {
+    res.status(200).send(TodoDatabase)
 }
 
 const userNames = () => {
     const names = []
-    userDatabase.forEach(user => {
+    TodoDatabase.forEach(user => {
         names.push({
             name: user.name
         })
@@ -34,7 +34,7 @@ const getUserNames = (req,res) => {
 
 const searchUserByName = (name) => {
     let object = `Could not find "${name}" in database`
-    userDatabase.forEach(user => {
+    TodoDatabase.forEach(user => {
         if (name === user.name) {
             object = user
             return user
@@ -49,13 +49,12 @@ const getUserByName = (req,res) => {
     res.status(200).send(responseFromDb)
 }
 
-const modifyUserByName = (name, newName, age, gender) => {
+const modifyUserByName = (name, newName, todo) => {
     let object = `Could not find "${ name }" in database`
-    userDatabase.forEach(user => {
+    TodoDatabase.forEach(user => {
         if (name === user.name) {
             user.name = newName
-            user.age = age
-            user.gender = gender
+            user.todo = todo
             object = user
             return user
         }
@@ -64,8 +63,8 @@ const modifyUserByName = (name, newName, age, gender) => {
 }
 
 const updateUserByName = (req,res) => {
-    const { name, newName, age, gender } = req.body
-    const response = modifyUserByName(name, newName, age, gender)
+    const { name, newName, todo } = req.body
+    const response = modifyUserByName(name, newName, todo)
 
     res.status(202).send(response)
 }
@@ -73,10 +72,10 @@ const updateUserByName = (req,res) => {
 const removeUserByName = (name) => {
     let text = `User with name : "${name}"`
 
-    for (let i = 0; i < userDatabase.length; i++) {
-        if(name === userDatabase[i].name){
+    for (let i = 0; i < TodoDatabase.length; i++) {
+        if(name === TodoDatabase[i].name){
             text += `was deleted from database!`
-            userDatabase.splice(i,1)
+            TodoDatabase.splice(i,1)
             return text
         }
     }
@@ -93,8 +92,8 @@ const deleteUserByName = (req,res) => {
 }
 
 export default {
-    createUser,
-    getUsers,
+    createTodo,
+    getAllTodos,
     getUserNames,
     getUserByName,
     updateUserByName,
