@@ -1,23 +1,21 @@
-import UsersService from "../utils/api/service/UsersService";
+import UsersService from "../../utils/api/services/UsersService";
 import {useState} from "react";
 
-import Card from "./Card";
+import Card from "../card/Card";
 
 const UpdateUser = () => {
     const [data, setData] = useState([])
-    const [name, setName] = useState('Carina')
-    const [newName, setNewName] = useState('Diego')
-    const [age, setAge] = useState(29)
-    const [gender, setGender] = useState('Male')
+    const [name, setName] = useState('Ursula')
+    const [newName, setNewName] = useState('Laura')
+    const [todo, setTodo] = useState('Bake')
 
     const sendDataToApi = () => {
         const changedUser = {
             "name": name,
             "newName": newName,
-            "age": age,
-            "gender": gender,
+            "todo": todo,
         }
-        UsersService.updateUser(changedUser)
+        UsersService.updateDataByName(changedUser)
             .then(response => {
 
                 setData(response.data)
@@ -28,29 +26,22 @@ const UpdateUser = () => {
 
     return (
         <>
-            <h1>UpdateUser</h1>
-            <input type="text"
+            <h1>Update Data</h1>
+            What to do? :<input type="text"
+                   value={todo}
+                   onChange={event => setTodo(event.target.value)}/>
+            Name:<input type="text"
                    value={name}
                    onChange={event => setName(event.target.value)}/>
-            <input type="text"
+            Nem Name:<input type="text"
                    value={newName}
                    onChange={event => setNewName(event.target.value)}/>
-            <input type="number"
-                   value={age}
-                   onChange={event => setAge(Number(event.target.value))}/>
-            <input type="text"
-                   value={gender}
-                   onChange={event => setGender(event.target.value)}/>
-            <button onClick={sendDataToApi}>Create new user</button>
-            {/*{data ? <Card*/}
-            {/*    name={ data.name }*/}
-            {/*    age={ data.age }*/}
-            {/*    gender={ data.gender }/>*/}
-            {/*: '' }*/}
+
+            <button onClick={sendDataToApi}>Update new user</button>
+
             {data.name ? <Card
                     name={ data.name }
-                    age={ data.age }
-                    gender={ data.gender }/>
+                    todo={ data.todo }/>
                 : <h3>{ data }</h3> }
 
         </>

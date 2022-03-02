@@ -1,6 +1,8 @@
 import Alive from "../components/Alive";
 import GetAllUsers from "../components/user_crud/GetAllUsers";
-import CreateUser from "../components/user_crud/CreateUser";
+import CreateTodoData from "../components/user_crud/CreateTodoData";
+import UpdateUser from "../components/user_crud/UpdateUser";
+import DeleteTodoUser from "../components/user_crud/DeleteTodo";
 
 const ContactView = () => {
 
@@ -9,7 +11,10 @@ const ContactView = () => {
             <h1 className='tracked'>Contact View</h1>
             <Alive/>
             <GetAllUsers/>
-            <CreateUser/>
+            <CreateTodoData/>
+            <UpdateUser/>
+            <DeleteTodoUser/>
+
 
         </div>
     )

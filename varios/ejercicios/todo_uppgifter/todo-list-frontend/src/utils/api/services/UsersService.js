@@ -1,24 +1,29 @@
-import http from '../UsersAPI'
+import http from '../TodoAPI'
 
-const getAllUsers = () => {
-return http.get('/users')
+const getAllTodos = () => {
+return http.get('/getAllTodos')
 }
 
-const createUser = (newUser) => {
-    return http.post('/user/',newUser)
+const createTodoData = (newUser) => {
+    return http.post('/createTodoData/',newUser)
 }
 
-const updateUser = (changedUser) => {
-    return http.put('/user/',changedUser)
+const updateDataByName = (changedUser) => {
+    return http.put('/updateDataByName/',changedUser)
 }
 
-const deleteUser = (name) => {
+const deleteDataByName = (name) => {
     return http.delete(`/user/${ name }`)
 }
 
+const getUserByName = (name) => {
+    return http.delete(`/getUserByName/${ name }`)
+}
+
 export default {
-    getAllUsers,
-    createUser,
-    updateUser,
-    deleteUser,
+    getAllTodos,
+    createTodoData,
+    updateDataByName,
+    deleteDataByName,
+    getUserByName,
 }

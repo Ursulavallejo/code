@@ -79,7 +79,7 @@ const removeUserByName = (name) => {
             return text
         }
     }
-    text += `don't exist in database!`
+    text += `does not exist in database!`
     return text
 }
 

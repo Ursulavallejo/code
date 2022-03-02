@@ -10,8 +10,8 @@ const CardList = ( { users }) => {
                     return (
                         <Card key={ i }
                               name={ user.name }
-                              todo={ user.todo }
-                              id={ user.id }/>
+                              task={ user.task }
+                              />
                     )
                 })
             }

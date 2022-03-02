@@ -1,12 +1,12 @@
 import UsersService from "../../utils/api/services/UsersService";
 import {useState} from "react";
 
-const DeleteUser = () => {
+const DeleteTodoUser = () => {
     const [data, setData] = useState('')
     const [name, setName] = useState('Diego')
 
     const sendDataToApi = () => {
-        UsersService.deleteUser(name)
+        UsersService.deleteDataByName(name)
             .then(response => {
                 // console.log(response.data)
                 setData(response.data)
@@ -26,4 +26,4 @@ const DeleteUser = () => {
     );
 };
 
-export default DeleteUser;
+export default DeleteTodoUser;

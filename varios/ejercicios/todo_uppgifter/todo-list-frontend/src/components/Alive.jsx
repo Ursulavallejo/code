@@ -1,4 +1,4 @@
-import AliveService from "../utils/api/services/AliveService";
+import AliveService from "../utils/api/services/AliveService.js";
 import {useState} from "react";
 
 const Alive = () => {
@@ -10,7 +10,6 @@ const Alive = () => {
              setData(response.data)
             } )
             .catch(error => console.log(error))
-      
     }
 
     return (

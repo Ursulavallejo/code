@@ -8,7 +8,7 @@ const GetAllUsers = () => {
     const [data, setData] = useState([])
 
     const fetchDataFromExternalApi = () => {
-        UsersService.getAllUsers()
+        UsersService.getAllTodos()
             .then(response => {
                 // console.log(response.data)
                 setData(response.data)
@@ -19,9 +19,9 @@ const GetAllUsers = () => {
 
     return (
         <>
-            <h1>GetAllUsers</h1>
+            <h1>GetAllTodos</h1>
             <button onClick={ fetchDataFromExternalApi }>
-                Get all Users
+                Get all Todos
             </button>
             <CardList users={ data }/>
 

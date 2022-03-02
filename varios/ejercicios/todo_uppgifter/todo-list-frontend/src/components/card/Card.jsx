@@ -1,10 +1,13 @@
-const Card = ({ name, todo }) => {
+
+
+const Card = ({ name, task }) => {
+
+
     return (
         <article >
 
-                <h2>{ name }</h2>
-                <p>{ todo }</p>
-
+            <h2>{ name }</h2>
+            <p>{ task }</p>
 
         </article>
     )
