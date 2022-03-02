@@ -1,6 +1,6 @@
 _type: export
 __export_format: 4
-__export_date: 2022-03-02T10:37:48.096Z
+__export_date: 2022-03-02T11:06:22.185Z
 __export_source: insomnia.desktop.app:v2021.7.2
 resources:
   - _id: req_8aec3bad305b4ab788dd27fbc88bf653
@@ -149,7 +149,7 @@ resources:
     _type: request
   - _id: req_dd14667b600e4de684a8e6a75d348588
     parentId: wrk_d120e9a0208a4f8fa43535b28b9dfe58
-    modified: 1646216878629
+    modified: 1646217766448
     created: 1646209365622
     url: localhost:3002/updateTodoDataByName/
     name: UpdateUserTodo
@@ -437,10 +437,10 @@ resources:
     _type: unit_test
   - _id: ut_332346473fbb4108bacdce85795e3eed
     parentId: uts_8792236e461c416fb1324e02c6a670b0
-    modified: 1646217066344
+    modified: 1646218311611
     created: 1646216922719
     requestId: req_dd14667b600e4de684a8e6a75d348588
-    name: Update User Name - Magnus Returns 202
+    name: Update User Name - Oliver Returns 202
     code: |+
       const response1 = await insomnia.send();
       const body = JSON.parse(response1.data);
@@ -469,4 +469,54 @@ resources:
       expect(body.name).to.equal('Oliver');
       expect(body.id).to.equal(4);
       expect(body.todo).to.equal('dansar');
+    _type: unit_test
+  - _id: ut_687b8420198c4615a873deb2cf309c55
+    parentId: uts_8792236e461c416fb1324e02c6a670b0
+    modified: 1646218498110
+    created: 1646217759853
+    requestId: req_ff6e6155277041cd9bb355c16a2d1caa
+    name: Get User by Name - Magnus Returns 200
+    code: |+
+      const response1 = await insomnia.send();
+      expect(response1.status).to.equal(200);
+      expect(response1.data).to.equal('Could not find "Magnus" in database');
+
+    _type: unit_test
+  - _id: ut_e8b73d9142924bcaabb0c864840a5aa7
+    parentId: uts_8792236e461c416fb1324e02c6a670b0
+    modified: 1646218876611
+    created: 1646218426949
+    requestId: req_d20857745264439aae6607a03187ee5a
+    name: Delete User by Name- Magnus Returns 200
+    code: >-
+      const response1 = await insomnia.send();
+
+      expect(response1.status).to.equal(200);
+
+      expect(response1.data).to.equal('User with name : "Magnus"does not exist in database!');
+    _type: unit_test
+  - _id: ut_46fb1a88b6a64590a8c716aa52a39f4e
+    parentId: uts_8792236e461c416fb1324e02c6a670b0
+    modified: 1646218716562
+    created: 1646218671223
+    requestId: req_4305eb489574443ca6ca48b2ae822106
+    name: Delete User by Name- Oliver Returns 200
+    code: >-
+      const response1 = await insomnia.send();
+
+      expect(response1.status).to.equal(200);
+
+      expect(response1.data).to.equal('User with name : "Oliver"was deleted from database!');
+    _type: unit_test
+  - _id: ut_fa3504b708d2480cb7a70811172a563d
+    parentId: uts_8792236e461c416fb1324e02c6a670b0
+    modified: 1646218955588
+    created: 1646218848889
+    requestId: req_9f380f98a71f4012b1a533a654e886b2
+    name: Get User by Name - Oliver Returns 200
+    code: |-
+      const response1 = await insomnia.send();
+      expect(response1.status).to.equal(200);
+
+      expect(response1.data).to.equal('Could not find "Oliver" in database');
     _type: unit_test

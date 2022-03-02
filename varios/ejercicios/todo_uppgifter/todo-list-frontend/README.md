@@ -4,7 +4,10 @@
 
    npm install react-icons
    npm install axios
+   npm install tachyons@4.12.0
    npm install react-router-dom@6
+   
+
 ```
 
 
