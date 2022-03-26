@@ -636,13 +636,23 @@ Avarios/ejercicios/todo_uppgifter/backend/src/data/todoDataBase.js,6\d\6d82c7f5
 NwebbserverProgrammering_1/2022-03-01/backend/src/controllers/UserController.js,7\7\77ad91768e3aeec356a77a990792b4236b142c3c
 m
 =varios/ejercicios/todo_uppgifter/todo-list-frontend/README.md,e\a\ea10dc3921b329ee90e8d462a47015e27475425d
-p
-@varios/ejercicios/todo_uppgifter/todo-list-frontend/package.json,0\2\0216f9cab95de2a2d2a2899515c529fb27d749b7
-|
-Lvarios/ejercicios/todo_uppgifter/todo-list-frontend/src/utils/api/TodoAPI.js,0\2\023140f45cea970da90fc35772cb9a3682102f57
-Š
-Zvarios/ejercicios/todo_uppgifter/todo-list-frontend/src/utils/api/services/UsersService.js,e\b\ebec2418d92caaf5fd59946db28e3603b2d50f8c
-Š
-Zvarios/ejercicios/todo_uppgifter/todo-list-frontend/src/utils/api/services/AliveService.js,2\a\2ae4ac6ad43a81e70828973edbba26d2752623e6
 |
 Lvarios/ejercicios/todo_uppgifter/todo-list-frontend/src/components/Alive.jsx,c\a\ca8f645a48d52640acc318ce48aebb72c34fe4ce
+Š
+Zvarios/ejercicios/todo_uppgifter/todo-list-frontend/src/utils/api/services/AliveService.js,2\a\2ae4ac6ad43a81e70828973edbba26d2752623e6
+Š
+Zvarios/ejercicios/todo_uppgifter/todo-list-frontend/src/utils/api/services/UsersService.js,e\b\ebec2418d92caaf5fd59946db28e3603b2d50f8c
+|
+Lvarios/ejercicios/todo_uppgifter/todo-list-frontend/src/utils/api/TodoAPI.js,0\2\023140f45cea970da90fc35772cb9a3682102f57
+p
+@varios/ejercicios/todo_uppgifter/todo-list-frontend/package.json,0\2\0216f9cab95de2a2d2a2899515c529fb27d749b7
+P
+ datalagring/backend/package.json,3\8\3800234f6add98468483f818a1445e5043f5de0a
+R
+"datalagring/backend/src/server2.js,5\4\5449cd59d006421557622bc737d35b66cda1b1de
+O
+datalagring/Mongoose/.gitignore,0\5\05656ebb63794f33df6a428a15a61b5ccd557a5e
+Q
+!datalagring/Mongoose/package.json,b\c\bc54b22f70f46c7d835f5c2dc52d28d0fd41980b
+V
+&datalagring/Mongoose/backend/server.js,1\3\13dfa1d6611e7fff5af2ad84f8bc834600635649
