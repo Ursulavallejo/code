@@ -650,9 +650,25 @@ P
  datalagring/backend/package.json,3\8\3800234f6add98468483f818a1445e5043f5de0a
 R
 "datalagring/backend/src/server2.js,5\4\5449cd59d006421557622bc737d35b66cda1b1de
-O
-datalagring/Mongoose/.gitignore,0\5\05656ebb63794f33df6a428a15a61b5ccd557a5e
 Q
 !datalagring/Mongoose/package.json,b\c\bc54b22f70f46c7d835f5c2dc52d28d0fd41980b
 V
 &datalagring/Mongoose/backend/server.js,1\3\13dfa1d6611e7fff5af2ad84f8bc834600635649
+O
+datalagring/Mongoose/.gitignore,0\5\05656ebb63794f33df6a428a15a61b5ccd557a5e
+g
+7datalagring/nodeProjekt/server/src/models/User.model.js,f\6\f6ef151b7885d41a462f9ace263a60e5b8f7eeda
+h
+8datalagring/nodeProjekt/server/src/routes/User.routes.js,8\8\88f6ba16fc08c908d9dd1f7da762bbe36cf5f00e
+c
+3datalagring/nodeProjekt/server/config/StatusCode.js,a\0\a0887e0f0ee58d00d1a8bd5279524717f5644157
+f
+6datalagring/nodeProjekt/server/config/Configuration.js,d\3\d3a192bcf94c38f0805bf949a1be10dd79f3551f
+[
++datalagring/nodeProjekt/server/package.json,c\6\c6fc5a3832972ea9c616977963225a71f4efeaab
+a
+1datalagring/nodeProjekt/server/tests/User.test.js,4\3\43b5d85662b6e0a7fa99d8134ed153b01b1607a1
+q
+Adatalagring/nodeProjekt/server/src/controllers/User.controller.js,8\e\8ee2aa6a8fe21916b18ee149e9ff8a54d95a6d43
+X
+(datalagring/nodeProjekt/server/Server.js,c\7\c7831d2b5a06a4ee4aeb03c399506867e73414c2
