@@ -411,9 +411,6 @@ x
 HWebbutveckling_2/contextShop/context/src/components/basket/BasketList.js,6\c\6c212ae46e442cdc48cc67a0b06bf0db5d88ee29
 >
 .gitattributes,2\4\24139dae656713ba861751fb2c2ac38839349a7a
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 o
 ?webbserverProgrammering_1/2022-02-08/second_server/package.json,f\d\fdd554a3becad41b8dded16ee6e008d00e2511df
 p
@@ -709,4 +706,4 @@ BWebbutveckling_3_FullStack/2022-04-21/typescriptProject/.gitignore,f\4\f42088a
 p
 @Webbutveckling_3_FullStack/2022-04-21/typescriptProject/index.js,f\9\f9041910f443628168ee6ba605d87e7ed0f5cca7
 t
-DWebbutveckling_3_FullStack/2022-04-21/typescriptProject/package.json,2\e\2e1c593cac71cc098178f3f31d2c133104ea8131
+DWebbutveckling_3_FullStack/2022-04-21/typescriptProject/src/tasks.ts,f\8\f86994b10806728b28df0fd6cbfb5b1a0c2a6ccd
