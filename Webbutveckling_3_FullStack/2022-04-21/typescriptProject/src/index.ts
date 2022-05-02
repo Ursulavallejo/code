@@ -226,3 +226,166 @@ const logger = (user: IUser): void =>{
 };
 
 users.forEach(logger);
+
+// ---------------------------------------------------------------
+
+
+
+// Exercise 3: Generic nested array
+// Create a function that accepts an array of arrays and logs out each nested array. The array could be of any(not the type 'any) type.
+//
+interface ICandy<T> {
+    id:number;
+    name: string;
+    color: string;
+    amountStock: number;
+}
+
+const candies: ICandy<any>[] = [
+    {
+        id:1,
+        name: 'Chocolate',
+        color: 'Brown',
+        amountStock: 5,
+    },
+    {
+        id:2,
+        name: 'Licorice',
+        color: 'Black',
+        amountStock: 4,
+    },
+    {
+        id:3,
+        name: 'Chewing Gum',
+        color: 'Pink',
+        amountStock: 20,
+    },
+];
+
+
+
+function candyNestedArrays <T>(candy: ICandy<T>): void {
+    console.log(`Id: ${candy.id} - Name: ${candy.name} - Color: ${candy.color} - AmountStock:${candy.amountStock} `)
+        }
+
+candies.forEach(candyNestedArrays);
+
+// ---------------------------------------------------------------
+
+//Exercise 4: Repository pattern
+//Create an interface, types and in-memory database for the following repository class
+
+class ArtistRepository {
+    public _db: any[];
+
+    constructor(db: any[]) {
+        this._db = db;
+    }
+
+    getArtists = () => this._db;
+
+    getArtist = (id: number) => this._db.filter((item: any) => item.id === id);
+
+    createArtist = (artist: any) => {
+        this._db.push(artist);
+    };
+
+    updateArtist = (id: number, artist: any) => {
+        const itemToUpdate = this.getArtist(id);
+        this._db[itemToUpdate[0].id - 1] = artist;
+        return this;
+    };
+
+    deleteArtist = (id: number) => {
+        this._db = this._db.filter((item: any) => item.id !== id);
+    };
+
+    addAlbumToArtist = (artistId: number, album: any) => {
+        const artist = this.getArtist(artistId);
+        console.log(artist[0].albums?.push(album));
+    };
+
+    getArtistAlbums = (id: number) => {
+        const artist = this.getArtist(id);
+        if (artist[0].albums) {
+            return artist[0].albums;
+        }
+        return `${artist[0].name}`;
+    };
+}
+
+// ---------------------------------------------------------------
+//Example Tutorial:
+
+//1.Creating Type-Safe Generics
+
+function fun<T>(args:T):T {
+    return args;
+}
+
+let result = fun<string>("Hello World");
+let result2 = fun<number>(200);
+
+console.log(result);
+console.log(result2);
+// ---------------------------------------------------------------
+//2.Using Generics with Parameters of Many Types :If there are many parameters in a function, you can use different letters to denote the types. You don’t have to only use T:
+//This will return the third argument, false.
+
+function fun2 <T, U, V>(args1:T, args2: U, args3: V): V {
+    return args3;
+}
+
+let result3 = fun2<string, number, boolean>('hey', 3, false);
+
+console.log(result3);
+
+// ---------------------------------------------------------------
+//3.Creating Generic Classes
+
+class customArray<T> {
+    private arr: T[] = [];
+
+    getItems(arr: T[]) {
+        return this.arr = arr;
+    }
+
+    addItem(item:T) {
+        this.arr.push(item);
+    }
+
+    removeItem(item: T) {
+        let index = this.arr.indexOf(item);
+        if(index > -1)
+            this.arr.splice(index, 1);
+    }
+}
+
+let numObj = new customArray<number>();
+numObj.addItem(10);
+
+let strObj = new customArray<string>();
+strObj.addItem('Robin');
+
+console.log(numObj);
+console.log(strObj);
+
+// ---------------------------------------------------------------
+//4.Understanding Generic Constraints
+
+
+interface funcArgs {
+    length: number;
+}
+
+function getLength<T extends funcArgs>(args: T) : number {
+    return args.length;
+}
+
+// let result4 = getLength(3); // give error since a value for the length parameter is not included
+
+let result4 = getLength({ length: 5, name: 'Hello'});
+
+console.log(result4);
+
+

@@ -14,4 +14,8 @@ npx create-react-app client --template typescript
 cd client
 npm start
 npm i axios
+npm i react-router-dom
 ```
+
+[Repository Class](https://github.com/deskavaenkelt/cm_gy_web2108/tree/main/fullstack_ts_mern_projektarbete/lektioner/2022-04-26)
+
