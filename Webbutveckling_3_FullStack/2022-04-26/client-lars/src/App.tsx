@@ -3,13 +3,15 @@ import Alive from "./components/Alive";
 import GetAllUsers from "./components/user/GetAllUsers";
 import GetUserById from "./components/user/GetUserById";
 import CreateUser from "./components/user/CreateUser";
+import UpdateUser from "./components/user/UpdateUser";
+import DeleteUser from "./components/user/DeleteUser";
 
 function App() {
     return (
         <>
             <h1>React APP written in Typescript with CSS modules</h1>
 
-           <Alive/>
+            <Alive/>
             <div className={css.container}>
                 <div>
                     <GetAllUsers/>
@@ -17,9 +19,8 @@ function App() {
                 </div>
                 <div>
                     <CreateUser/>
-                    <p>Create user</p>
-                    <p>Update user</p>
-                    <p>Delete user</p>
+                    <UpdateUser/>
+                    <DeleteUser/>
                 </div>
             </div>
 
