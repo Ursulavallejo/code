@@ -1,5 +1,6 @@
 import css from './App.module.css';
 import Alive from "./components/Alive";
+import GetAllUsers from "./components/user/GetAllUsers";
 
 function App() {
     return (
@@ -9,7 +10,7 @@ function App() {
            <Alive/>
             <div className={css.container}>
                 <div>
-                    <p>Get All users</p>
+                    <GetAllUsers/>
                     <p>Get user by ID</p>
                 </div>
                 <div>
