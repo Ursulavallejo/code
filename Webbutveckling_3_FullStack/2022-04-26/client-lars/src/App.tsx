@@ -2,6 +2,7 @@ import css from './App.module.css';
 import Alive from "./components/Alive";
 import GetAllUsers from "./components/user/GetAllUsers";
 import GetUserById from "./components/user/GetUserById";
+import CreateUser from "./components/user/CreateUser";
 
 function App() {
     return (
@@ -15,6 +16,7 @@ function App() {
                     <GetUserById/>
                 </div>
                 <div>
+                    <CreateUser/>
                     <p>Create user</p>
                     <p>Update user</p>
                     <p>Delete user</p>
