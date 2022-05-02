@@ -11,4 +11,5 @@ export interface ReadUser{
     gender:string;
     createdAt: Date,
     updatedAt: Date,
+    message?: string;
 }
